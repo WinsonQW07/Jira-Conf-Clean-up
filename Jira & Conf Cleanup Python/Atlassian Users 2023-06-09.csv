@@ -1,0 +1,662 @@
+User id,User name,email,User status,Added to org,Org role,Last seen in Jira Software - yaleits,Last seen in Confluence - yaleits,Jira Software - yaleits,Confluence - yaleits,Group membership
+5abce7295dcb0a34cbf507d4,Suzanne Stringer,suzanne.stringer@yale.edu,Active,29-Mar-18,None,Never accessed,30-Oct-18,None,User,confluence-users
+63443647cba49e290970daac,Sullivan Million,sullivan.million@yale.edu,Active,10-Oct-22,None,7-Jun-23,8-Jun-23,User,User,"confluence-users,jira-software-users,sass"
+5c87fcb44e3866663c8431d8,Steven Shane,steven.shane@yale.edu,Active,15-Mar-19,None,Never accessed,7-Feb-23,None,User,"confluence-users,taldev_admins"
+712020:8b252afd-5fa6-4cee-9964-454b422a050d,Sarah Anich,sarah.anich@yale.edu,Active,11-May-23,None,7-Jun-23,16-May-23,User,None,"Facilities,jira-software-users"
+621d2928a687c5006a5d7729,Rita Pettine,rita.pettine@yale.edu,Active,28-Feb-22,None,8-Jun-23,7-Jun-23,User,User,"confluence-users,jira-software-users,sass"
+6376933d2acfad92d7b008b6,Shane Mcpartlin,shane.mcpartlin@yale.edu,Active,17-Nov-22,None,2-Feb-23,18-Nov-22,User,User,"DA,confluence-users,jira-software-users"
+5c4754e185c9b117bae2f656,Steve Flesch,stephen.flesch@yale.edu,Active,18-Feb-20,Site Admin,17-Feb-22,6-Jun-23,User,"User,Admin","administrators,confluence-administrators,confluence-users,jira-software-users,site-admins"
+628be7d6d5ec4f0069e7b2d3,Robert Carpana,robert.carpana@yale.edu,Active,25-May-22,None,Never accessed,14-Jun-22,None,User,confluence-users
+621fca83c88f1000682ea27c,Sandeep Vemulapalli,sandeep.vemulapalli@yale.edu,Active,2-Mar-22,None,8-Jun-23,2-Jun-23,User,User,"Web Technologies,confluence-users,jira-software-users"
+611c57bde05b7b006aeebc7c,Subha Srikumar,subha.srikumar@yale.edu,Active,8-Oct-21,None,30-May-23,29-Nov-21,User,None,"FTS Quality Assurance,jira-software-users"
+610403528c15ca006f3799a4,Ryan Sobeck,ryan.sobeck@yale.edu,Active,30-Jul-21,None,2-Jun-23,18-May-23,User,User,"CTL,confluence-users,jira-software-users"
+633ee712140ba0bf651e4233,Samantha Morales,samantha.morales@yale.edu,Active,6-Oct-22,None,8-Jun-23,Never accessed,User,None,jira-software-users
+557058:c75f6402-3373-431c-93ba-38a79c653207,Steven Ongley,steven.ongley@yale.edu,Active,26-Sep-17,None,Never accessed,Never accessed,None,User,"Endpoint,confluence-users"
+60199cce332cbe00700e1c15,Siva Boppudi,siva.boppudi@yale.edu,Active,12-Feb-21,None,12-Feb-21,12-May-23,User,User,"confluence-users,jira-software-users,platform-dba"
+557058:3fe83b52-abaa-4c14-a68a-967e8f82bb88,Susan Lukose,susan.lukose@yale.edu,Active,8-Jun-17,None,28-Jun-19,1-Jun-23,None,User,"confluence-users,data-management"
+5e1c9cf3d152ca0c9e18626d,ron.colonna,ron.colonna@yale.edu,Active,21-Mar-23,None,Never accessed,Never accessed,User,User,"confluence-users,jira-software-users"
+557058:582fb1ba-35b6-495d-8af4-efcc0eb4519c,Sascha Mangs,sascha.mangs@yale.edu,Active,8-Jun-17,None,15-Sep-22,9-Jun-23,User,User,"confluence-users,infosec,infosec-jira,jira-software-users"
+557058:f253324e-9654-4eec-80f5-c756e2b314f1,Richard Oraskovich,richard.oraskovich@yale.edu,Active,8-Jun-17,None,31-Mar-22,29-Mar-22,User,User,"AYA Development,confluence-users,darcy-data-warehouse,jira-software-users"
+557058:ac80f785-4d6f-4886-a56d-dac16e8fb1e3,Sandeep Kapur,sandeep.kapur@yale.edu,Active,8-Jun-17,None,Never accessed,15-Mar-22,None,User,"confluence-users,design_and_qa"
+557058:a3aca8df-0541-42cc-aa4a-ace15fbd226b,Robert Lutinski,robert.lutinski@yale.edu,Active,8-Jun-17,None,Never accessed,20-Jan-23,None,User,"confluence-users,dno"
+712020:7f37cbbf-acf4-4e09-ad61-b2bf8ec69ac0,suchitha.misra,suchitha.misra@yale.edu,Active,5-May-23,None,Never accessed,Never accessed,User,User,"SASS Summer Interns,confluence-users,jira-software-users"
+62f501cfe50f2f2a39577895,Robert Landsparger,robert.landsparger@yale.edu,Active,11-Aug-22,None,Never accessed,18-Aug-22,None,User,"confluence-users,platform-dba"
+6140f6fe8f2ada00694902b6,Richard Asuncion,richard.asuncion@yale.edu,Active,14-Sep-21,None,13-Nov-21,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+557058:71ccab00-5f6e-48bf-9c07-c37ee8a45806,Robert Sessions,robert.sessions@yale.edu,Active,8-Jun-17,None,9-Jun-23,23-May-23,User,User,"Facilities,confluence-users,jira-software-users"
+557058:0f3fe358-9b6b-436a-ba57-80aec43e8427,Stephen Donnelly,stephen.g.donnelly@yale.edu,Active,8-Jun-17,None,10-Nov-21,23-May-23,User,User,"confluence-users,jira-software-users"
+5ffca1933b5e47013825d5af,Ryan Wagner,ryan.wagner@yale.edu,Active,11-Jan-21,None,2-Jun-23,2-Jun-23,User,User,"confluence-users,darcy-data-warehouse,jira-software-users"
+625b10099e7380006fb51bd4,Susan Glucksman,susan.glucksman@yale.edu,Active,18-Apr-22,None,30-Jun-22,Never accessed,User,User,"confluence-users,jira-software-users"
+557058:ac240e0c-01c0-4a57-9555-b6a933a15c73,Robert Rice,robert.rice@yale.edu,Active,8-Jun-17,None,Never accessed,4-May-22,None,User,confluence-users
+5a68e5d488193b25ef8e4d94,SureshPandian Pandian,suresh.pandian@yale.edu,Active,24-Jan-18,None,20-Aug-20,23-Sep-22,User,User,"confluence-users,jira-software-users,sa-linux,sa-windows"
+5dd6d643e7ceef0eed1f2268,Sarah Prown,sarah.prown@yale.edu,Active,21-Nov-19,None,8-Jun-20,11-Apr-23,User,User,"Cultural Heritage,confluence-users,jira-software-users"
+557058:8ba48c59-da2c-48af-9d4c-b5cb95b7d27f,Seong-June Kim,seong-june.kim@yale.edu,Active,8-Jun-17,None,31-Oct-20,17-Apr-23,User,User,"Cultural Heritage,Web Technologies,confluence-users,jira-software-users"
+5b200f7d927da916aaaa78fa,Shaun Ennis,shaun.ennis@yale.edu,Active,24-Feb-20,None,24-Feb-20,Never accessed,None,None,HR Innovation & Strategic Support
+5a65fee49efbb2410c0aa564,Ryan Schlagheck,ryan.schlagheck@yale.edu,Active,22-Jan-18,None,15-Oct-21,Never accessed,User,User,"SLT,confluence-users,data-management,jira-software-users"
+557058:2f9d10ee-1961-4dfe-8243-6e5757e0bcd8,Steve DeGroat,steve.degroat@yale.edu,Active,8-Jun-17,None,22-Jul-20,4-Jun-18,User,User,"confluence-users,jira-software-users"
+624463a8f40798007055dc31,Shweta Shakya,shweta.shakya@yale.edu,Active,30-Mar-22,None,8-Jun-23,9-Jun-23,User,User,"confluence-users,jira-software-users,sass"
+61115a60c51f3a0069454ab3,Randy Oest,randy.oest@yale.edu,Active,9-Aug-21,None,18-Nov-22,Never accessed,User,None,"Web Technologies Clients,jira-software-users"
+557058:e1271680-2c83-4872-9165-cbaa1f2aa2a5,Sreelatha Vankayala,sreelatha.vankayala@yale.edu,Active,22-Jun-17,None,5-Jun-23,31-May-23,User,User,"confluence-users,jira-software-users,sass,sfas"
+63652ab1548f1fe6f0c893c4,Sanah Chaudhry,sanah.chaudhry@yale.edu,Active,4-Nov-22,None,Never accessed,10-May-23,None,User,"Yale_Cloud,confluence-users"
+70121:2b648bea-b1cb-444c-8023-b17abda945f7,Steve Gaudreau,steven.gaudreau@yale.edu,Active,20-May-20,None,14-May-21,14-May-21,User,None,jira-software-users
+557058:ecb04e7e-c89c-4fdb-b132-4959a36122cd,Robert Goclowski,robert.goclowski@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,"HR Innovation & Strategic Support,bsg-application-services,confluence-users"
+557058:7cd526f9-237b-4a46-ad0d-ac34ebc8fc67,Raymond Frohlich,raymond.frohlich@yale.edu,Active,8-Jun-17,None,Never accessed,9-Jun-20,None,User,confluence-users
+610d724d3900e600701b84c5,Rob Mcbryde,rob.mcbryde@yale.edu,Active,6-Aug-21,None,9-Feb-22,13-Aug-21,User,None,"Web Technologies,jira-software-users"
+607ecbef0d42f60069ece1cd,Selene Gutierrez,selene.gutierrez@yale.edu,Active,20-Apr-21,None,9-Jun-23,Never accessed,User,None,"FTS Quality Assurance,jira-software-users,sass-consultants"
+6022d97ac4ec0f006e83d9e6,Sravan Sistla,sravan.sistla@yale.edu,Active,11-Feb-21,None,Never accessed,29-Aug-22,None,User,confluence-users
+5e26fb5d76f1a50e68c8b80c,Shantie Rattansingh,shantie.rattansingh@yale.edu,Active,5-Jul-22,None,6-Jun-23,6-Jun-23,User,User,"confluence-users,jira-software-users,sass"
+557058:b4fbe0f9-b67f-4ad7-96cb-f2001f689962,servicenowintegration,dan.franko+servicenow@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,None,
+6241a95745ece00069c80dc4,Ricky Allen,ricky.allen@yale.edu,Active,28-Mar-22,None,31-Mar-22,Never accessed,User,User,"confluence-users,jira-software-users,sass"
+5ab0f6b73b2fcc2a6f6bcdf7,Satish Gerard,satish.gerard@yale.edu,Active,20-Mar-18,None,Never accessed,5-Jun-23,None,User,"confluence-users,iam"
+557058:51082662-5a4a-4c66-8e81-c0d5812f1178,Ron Colonna,ronald.colonna@yale.edu,Active,8-Jun-17,None,8-Jun-23,16-Feb-23,User,User,"AYA Development,confluence-users,darcy-data-warehouse,jira-software-users"
+557058:b48bdd3a-e21a-40d4-ab0f-368c20d2f5d8,Stephen Baraquin,stephen.baraquin@yale.edu,Active,8-Jun-17,None,3-Apr-23,28-Feb-23,User,User,"confluence-users,jira-software-users"
+60c774edf65054006995ef7c,Richard Beres,richard.beres@yale.edu,Active,14-Jun-21,None,8-Jun-23,8-Jun-23,User,User,"confluence-users,jira-software-users,sass"
+557058:0b045aa2-e8f1-47ad-9acd-4a13250ae717,Robert Bjornson,robert.bjornson@yale.edu,Active,13-Mar-20,None,Never accessed,29-Oct-21,None,User,"Yale_Cloud,confluence-users"
+6204f371506317006b08bf6b,silvia.sendim@outsystems,silvia.sendim@outsystems.com,Active,4-Jan-23,None,6-Jun-23,Never accessed,User,None,jira-software-users
+557058:6f279cdb-086a-4095-8846-ed4305a23486,Robert Wolfe,robert.wolfe@yale.edu,Active,8-Jun-17,None,Never accessed,9-Jun-23,None,User,"IAM read only,confluence-users,sa-windows"
+557058:34d73802-a64b-477f-98d6-90054e7028a1,Rebecca Hoffmann,rebecca.hoffmann@yale.edu,Active,8-Jun-17,None,21-Jun-19,8-Jun-23,None,User,"confluence-users,sa-linux,taldev_admins"
+557058:32b09ac1-56a1-4911-ad8d-53f95d530436,Ricardo Aliwalas,ricardo.aliwalas@yale.edu,Active,8-Jun-17,None,Never accessed,3-May-22,None,User,confluence-users
+5e98760d0fe27d0c0eeeb828,Richard Lewicki,richard.lewicki@yale.edu,Active,16-Apr-20,None,19-Apr-22,14-Jul-20,User,User,"Yale_Cloud,confluence-users,jira-software-users"
+626aaef1a32183006f255172,sfas.system.services,sfas.system.services@yale.edu,Active,28-Apr-22,None,Never accessed,Never accessed,User,User,"confluence-users,jira-software-users"
+640f280c57f0c028e2f3f373,Sohail Syed,sohail.syed@yale.edu,Active,13-Mar-23,None,8-Jun-23,30-May-23,User,User,"confluence-users,jira-software-users,sass"
+557058:d337a9cf-5e3b-4456-a600-be7083ec4705,Rick Kremer,rick.kremer@yale.edu,Active,26-Oct-17,None,Never accessed,8-Jun-23,None,User,"Endpoint,confluence-users"
+557058:10f1a48d-659b-43f7-b390-9baa4bb1bdfc,Sai Ravuri,sai.ravuri@yale.edu,Active,8-Jun-17,None,Never accessed,1-Nov-21,User,User,"HR Innovation & Strategic Support,bsg-application-services,confluence-users,jira-software-users,taldev_admins"
+620a8ad32fd2470071c8e7dd,Bob Bond,robert.bond@yale.edu,Active,14-Feb-22,None,9-Jun-23,2-Jun-23,User,User,"confluence-users,jira-software-users,sass"
+5cd5788100d9750e45e1f0d0,Scott Zitzmann,scott.zitzmann@yale.edu,Active,21-Oct-21,None,6-Jun-23,30-May-23,User,User,"confluence-users,jira-software-users,sass,sass-consultants"
+632104e6f8c7bc1f358371c9,Ricardo Ramirez,ricardo.ramirez@yale.edu,Active,14-Sep-22,None,8-Jun-23,7-Jun-23,User,User,"FTS Quality Assurance,confluence-users,darcy-data-warehouse,jira-software-users"
+557058:114f16e9-68e4-481f-a1df-c5652c707fe5,Steven Sprowson,steven.sprowson@yale.edu,Active,8-Jun-17,None,30-Aug-21,31-Mar-20,User,User,"URO,confluence-users,jira-software-users,sfas"
+5d11355a5a5f210c4873aabd,Rashaun Durden,rashaun.durden@yale.edu,Active,25-Apr-22,None,9-Mar-23,Never accessed,User,User,"URO,confluence-users,jira-software-users"
+6375149d3c26ca7fa0d118ee,Ricardo Nicholas,ricardo.nicholas@yale.edu,Active,16-Nov-22,None,Never accessed,16-Feb-23,None,User,confluence-users
+62f1529896eb272011a9933c,Richard Collins,richard.collins@yale.edu,Active,8-Aug-22,None,7-Feb-23,Never accessed,User,None,jira-software-users
+6050a8c960d39e006f5b5a5d,Rodrigo Aguilar,rodrigo.aguilar@yale.edu,Active,16-Mar-21,None,27-May-22,26-May-21,User,None,"FTS Quality Assurance,jira-software-users,sass-consultants"
+5dc9aeb163a2770df86deebd,sara.estrom,sara.estrom@yale.edu,Active,11-Nov-19,None,Never accessed,Never accessed,User,User,"GSAS-FinAid,confluence-users,jira-software-users"
+62717699ede016007000a263,s_canvas,s_canvas@yu.yale.edu,Active,3-May-22,None,Never accessed,Never accessed,User,User,"Canvas Intake,confluence-users,jira-software-users"
+5f60d7fdc176230078d5bce9,Robert Sanderson,robert.sanderson@yale.edu,Active,15-Sep-20,None,Never accessed,25-Feb-21,None,User,"Cultural Heritage,confluence-users"
+607f3057739dd40069a4b903,Ramesh Maddineni,ramesh.maddineni@yale.edu,Active,2-Jun-21,None,4-Nov-21,26-Oct-21,User,User,"confluence-users,jira-software-users"
+557058:19a58755-eccb-4247-9158-3d6cd252df68,Randall Rode,randall.rode@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+712020:f2548ace-8c0e-4496-b24e-8f5d3293d65d,Silvia Ivanova,silvia.ivanova@yale.edu,Active,27-Apr-23,None,8-Jun-23,Never accessed,User,User,"confluence-users,jira-software-users"
+5af8ccb461028655fa49f9db,Susan Pacini,susan.pacini@yale.edu,Active,20-Mar-20,None,21-Jan-22,Never accessed,User,None,"PMO,jira-software-users"
+5c6bd91e7dae4b6533844363,Ronald Lipkins,ronald.lipkins@yale.edu,Active,24-Feb-20,None,16-Feb-23,Never accessed,User,None,"HR Innovation & Strategic Support,jira-software-users"
+557058:98b68b90-e16f-432c-8645-157044ceade3,Sarah Stevens-Morling,sarah.stevens-morling@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+5b902d8922c5932bd3728b21,Stephanie Scungio,stephanie.scungio@yale.edu,Active,20-Mar-20,None,6-Jun-23,5-Sep-18,User,None,"PMO,jira-software-users"
+6414851caf3b93d8ecf2658a,Rohan Stewart,rohan.stewart@yale.edu,Active,17-Mar-23,None,Never accessed,24-May-23,None,User,"confluence-users,public_safety"
+712020:cfdb7ac9-67e1-4e20-970a-0326bcc0cc31,sheel.patel,sheel.patel@yale.edu,Active,5-May-23,None,Never accessed,Never accessed,User,User,"SASS Summer Interns,confluence-users,jira-software-users"
+557058:6792a04a-dff4-4317-9ee9-5aeaf0fe77f7,Stephen Watkins,steve.watkins@yale.edu,Active,26-Sep-17,None,Never accessed,29-Sep-22,None,User,"Endpoint,confluence-users"
+557058:61d1947b-ea39-4b85-9366-57d97980b216,Shonna Marshall,shonna.marshall@yale.edu,Active,8-Jun-17,None,19-Jan-23,17-Sep-18,User,User,"SIS Data Governance,SIS Working Group,URO,confluence-users,jira-software-users,sass-functional"
+63726374489de2f7f4615862,Renée Kamauf,renee.kamauf@yale.edu,Active,13-Apr-23,None,17-May-23,Never accessed,User,User,"confluence-users,jira-software-users,sass-functional"
+557058:318c2218-a770-4cc7-856c-9c4f221d1b60,Syed Alli,syed.alli@yale.edu,Active,8-Jun-17,None,7-Jun-23,13-Oct-22,User,User,"confluence-users,jira-software-users"
+5cd5b64d1b6dba0dc52be790,Scott Zitzmann,sz429@connect.yale.edu,Active,1-Feb-22,None,4-Feb-23,17-Sep-21,User,None,jira-software-users
+557058:3fbe7ad5-169f-4193-a2af-89b16224c2e3,Renee Randall,renee.randall@yale.edu,Active,8-Jun-17,None,28-Apr-23,24-May-23,User,User,"confluence-users,jira-software-users,sass"
+60ca36d22bd2140069047b75,Renato Cayuela,renato.cayuela@yale.edu,Active,23-Jul-21,None,9-Aug-21,5-Apr-23,User,None,jira-software-users
+5c546b7c0abefd4ed4ed6f7a,Randal Ritter,randal.ritter@yale.edu,Active,4-Feb-19,None,8-Sep-22,1-Oct-21,User,User,"confluence-users,data-management,jira-software-users,taldev_admins"
+610be2e16051c5006a026862,Sivananda Ayyaluri,sivananda.ayyaluri@yale.edu,Active,5-Aug-21,None,Never accessed,25-Jan-22,None,User,"confluence-users,sa-linux"
+557058:dbb88a78-d45b-4a0f-8ce6-0985bfd2a794,Sandy Bouton,sandra.bouton@yale.edu,Active,8-Jun-17,None,3-Nov-20,14-Dec-21,User,User,"confluence-users,jira-software-users"
+627299797dd556006afd3fb5,s_canvas,s_canvas@yale.edu,Active,4-May-22,None,Never accessed,Never accessed,User,User,"Canvas Intake,confluence-users,jira-software-users"
+5cca6d52c07bd90e5ec16a19,Caitlin McEvilly,caitlin.mcevilly@yale.edu,Active,2-May-19,None,9-Jun-23,7-Jun-23,User,User,"confluence-users,darcy-data-warehouse,jira-software-users"
+5f6e14141d34a50077e94145,Brian Murray,brian.murray@yale.edu,Active,25-Sep-20,None,25-Sep-20,6-Mar-23,None,User,"confluence-users,dno"
+5af8cd3df2f8f0082b7762c2,Adam Drake,adam.drake@yale.edu,Active,20-May-20,None,25-Jan-22,19-Jul-22,User,None,jira-software-users
+712020:e5a7fc24-ec3c-416c-9a83-8093737a4480,Anthony Maher,anthony.maher@yale.edu,Active,27-Apr-23,None,9-Jun-23,Never accessed,User,User,"confluence-users,jira-software-users"
+5d811470716a7d0c36d42322,Alex Malacea,alex.malacea@yale.edu,Active,17-Sep-19,None,Never accessed,17-Sep-19,None,User,confluence-users
+60f6c47e33876e0068cd51c2,Abimael Jaimes,abimael.jaimes@yale.edu,Active,20-Jul-21,None,8-Jun-23,11-May-23,User,User,"FTS Quality Assurance,confluence-users,jira-software-users"
+62b1bffdb8e499e567e8e69f,Aisa Tosoni,aisa.tosoni@yale.edu,Active,21-Jun-22,None,1-Jun-23,Never accessed,User,None,jira-software-users
+620e7ee58c763e0068d32500,Ashraf Khalil,ashraf.h.khalil@yale.edu,Active,1-Mar-22,None,29-Jun-22,9-Mar-22,User,User,"FTS Quality Assurance,confluence-users,jira-software-users"
+712020:c3acaa5e-3b01-4c5b-a358-382a3da38e23,Arlen Stabbe,arlen.stabbe@yale.edu,Active,4-May-23,None,4-May-23,Never accessed,User,User,"confluence-users,jira-software-users,sass-functional"
+5ff60cb6642089014104aa8c,Alex Nye,alex.nye@yale.edu,Active,7-Jan-21,None,9-Jun-23,5-Jun-23,User,User,"Facilities,confluence-users,jira-software-users"
+557058:c7e7f4d3-f2ba-4628-a0b3-8386489eb815,Brad Hajzak,bradley.hajzak@yale.edu,Active,8-Jun-17,None,Never accessed,9-May-23,None,User,"confluence-users,iam"
+557058:ba8bc6d0-6106-4bd9-a878-6a0c98cbe205,Alan Scrimenti,alan.scrimenti@yale.edu,Active,8-Jun-17,None,8-Jun-23,8-Jun-23,User,User,"Web Technologies,confluence-users,fy17-d6-website-migrations,jira-software-users"
+557058:95aaa5a5-149e-4db4-94e9-96e1473a2711,Camden Fisher,edward.fisher@yale.edu,Active,15-Apr-20,None,22-Sep-21,22-Dec-21,User,User,"confluence-users,jira-software-users,sa-linux"
+557058:4b86f197-4463-43e3-a405-81e0d2b50850,Anthony Ventura,anthony.ventura@yale.edu,Active,8-Jun-17,None,Never accessed,2-Jun-23,None,User,"confluence-users,dno"
+637d17e59e48f2b9a611ed1d,Aldo Davila,aldo.davila@yale.edu,Active,1-Dec-22,None,5-Jun-23,2-Jun-23,User,User,"confluence-users,darcy-data-warehouse,jira-software-users"
+557058:554841c6-776c-4033-be5c-18d485164b02,Bryan Kazdan,bryan.kazdan@yale.edu,Active,8-Jun-17,None,7-Aug-20,12-May-23,User,User,"IAM read only,confluence-users,jira-software-users,sa-windows"
+557058:303e6f5b-fd42-4e59-bf32-c1c1af38b99b,Arthur Pelkey,arthur.pelkey@yale.edu,Active,8-Jun-17,None,Never accessed,21-Sep-22,None,User,confluence-users
+618af206abad3c0071dcf6d7,Bridget Broderick,bridget.broderick@yale.edu,Active,16-Nov-21,None,30-Mar-22,2-Dec-21,User,None,"EA: Research Enterprise,jira-software-users"
+634996af48be855a65ed9fc2,Alex.lima,alex.lima@outsystems.com,Active,14-Oct-22,None,24-Jan-23,Never accessed,User,None,jira-software-users
+63b5e7934bc858b303cf15f3,Amy Rodriguez,amy.rodriguez@yale.edu,Active,4-Jan-23,None,8-Jun-23,1-Jun-23,User,User,"confluence-users,jira-software-users,sass"
+557058:34f859c8-9404-4262-9dfe-a020f113e1da,Chao Hang Lu,chaohang.lu@yale.edu,Active,8-Jun-17,None,25-Apr-23,Never accessed,User,None,"Web Technologies,fy17-d6-website-migrations,jira-software-users"
+557058:be49253c-566b-4046-b6f1-ea10772e71fa,Brian Young,brian.young@yale.edu,Active,8-Jun-17,None,12-Jan-22,17-Mar-23,User,User,"HR Innovation & Strategic Support,bsg-application-services,confluence-users,jira-software-users,taldev_admins"
+61677d69a70710006921f364,Brendan Wu,brendan.wu@yale.edu,Active,28-Oct-21,None,6-Sep-22,Never accessed,User,None,"Web Technologies,jira-software-users"
+6321fa73a408c1e3a657da6c,Alejandro Leyva,alejandro.leyva@yale.edu,Active,14-Sep-22,None,8-Jun-23,30-Sep-22,User,User,"FTS Quality Assurance,confluence-users,jira-software-users"
+557058:c90c4cd2-b65d-40c6-9627-be7de7e09bae,Abby Grow,abigail.grow@yale.edu,Active,23-Jan-19,None,6-Jun-23,4-Jan-23,User,User,"confluence-users,jira-software-users,taldev_admins"
+557058:e0ee47c8-d7e9-4c72-96df-67e56ca543bc,Arunkumar Natarajan,arunkumar.natarajan@yale.edu,Active,8-Jun-17,None,13-Oct-22,1-Jun-23,User,User,"ITS Enterprise Applications - Cross Applications Platforms,confluence-users,jira-software-users"
+712020:9f141f9a-65c4-4233-a8e9-66a7a4535a50,Alexander Schwartz,alexander.schwartz@yale.edu,Active,20-Apr-23,None,Never accessed,24-May-23,None,User,confluence-users
+6130f0134a98da0069df3438,Angela Torres,angela.torres@yale.edu,Active,16-Sep-21,None,1-May-23,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+557058:fa2ec9a3-6d50-469c-bd8c-91614c83f0dc,Andrea MacAdam,andrea.macadam@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+61115a5ee6e6f80071508e2d,Ashley Hitson,ashley.hitson@yale.edu,Active,9-Aug-21,None,8-Jun-23,Never accessed,User,None,"Web Technologies Clients,jira-software-users"
+5b17fd1013d9851b5a744d77,Assad Layne,assad.layne@yale.edu,Active,10-Feb-22,None,Never accessed,6-Jun-23,None,User,"Cloud Engineering,Yale_Cloud,confluence-users"
+63f3c1f5e76fc61320f448c1,Cameron Marshall,cameron.marshall@yale.edu,Active,21-Feb-23,None,8-Jun-23,9-Jun-23,User,User,"confluence-users,jira-software-users,sass"
+5be9b851c3020238d3955d88,Rebecca Schneider,rebecca.schneider@yale.edu,Active,12-Nov-18,None,7-Jun-23,7-Jun-23,User,User,"Web Technologies,confluence-users,jira-software-users"
+557058:33320587-ca05-433b-be3f-aa28d69f859e,Brent Sowers,brent.sowers@yale.edu,Active,8-Jun-17,None,8-Jun-23,6-Jun-23,User,User,"AYA Development,confluence-users,darcy-data-warehouse,jira-software-users"
+5ff74d96849d640111578168,Barbara Haberman,barbara.haberman@yale.edu,Active,7-Jan-21,None,13-Jul-22,6-Jun-22,User,User,"Facilities,confluence-users,jira-software-users"
+5b71a2b3b70b2a06b0fb20c8,Arun Darwar,arun.darwar@yale.edu,Active,27-Aug-19,None,10-Sep-20,3-Mar-22,User,User,"HR Innovation & Strategic Support,confluence-users,jira-software-users"
+61115a5e7ab143006e6d4cb6,Brian Lewis,b.lewis@yale.edu,Active,9-Aug-21,None,18-Nov-22,Never accessed,User,None,"Web Technologies Clients,jira-software-users"
+5e1dd749ee2e8f0ca839c727,Azm Hussein,azm.hussein@yale.edu,Active,21-Jan-20,None,28-Nov-22,28-Mar-23,User,User,"confluence-users,jira-software-users,platform-dba"
+62cc671eec233f2468497644,Brandon Akers,brandon.akers@yale.edu,Active,11-Jul-22,None,18-Nov-22,Never accessed,User,None,jira-software-users
+61675ca4289a54006a9c002f,Anne Marie Gilbert,anne-marie.gilbert@yale.edu,Active,23-May-23,None,Never accessed,Never accessed,None,User,confluence-users
+61674235071a720071c90bde,Adam Santiago,adam.santiago@yale.edu,Active,4-Jan-22,None,22-Aug-22,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+557058:036434c1-89bd-491a-9e7d-c737cf611d23,Chris Cadden,chris.cadden@yale.edu,Active,7-Sep-22,None,8-Jun-23,7-Jun-23,User,User,"Web Technologies,confluence-users,jira-software-users"
+627aae129311100068a00833,Ania Lighty,ania.lighty@yale.edu,Active,17-May-22,None,6-Jun-23,8-Feb-23,User,User,"confluence-users,darcy-data-warehouse,jira-software-users"
+5f0f41f870b8a90025b7a918,banner.data.request@yale.edu,banner.data.request@yale.edu,Active,15-Jul-20,None,27-Feb-21,Never accessed,User,User,"Service Accounts,confluence-users,jira-administrators,jira-software-users"
+712020:7e47c83b-3d34-483f-90f9-5fc0df8a3ebf,Andres Ortega,andres.ortega@yale.edu,Active,3-May-23,None,6-Jun-23,Never accessed,User,None,jira-software-users
+61677d6e2f6aed00682bb10c,Brendan McGovern,brendan.mcgovern@yale.edu,Active,27-Jul-22,None,8-Mar-23,Never accessed,User,User,"URO,confluence-users,jira-software-users"
+5e274af9c55f580c9fc9705c,Apriel Biggs,apriel.biggs@yale.edu,Active,21-Jan-20,None,17-Oct-22,Never accessed,User,None,"PMO,jira-software-users"
+557058:280f8594-65ff-41f9-8d15-83e6ccbadc5c,Amy Lohman,amy.lohman@yale.edu,Active,8-Jun-17,None,Never accessed,2-Jun-23,None,User,confluence-users
+557058:7a5fc66e-f718-418d-b9a7-785258db0627,Amy Ferraro,amy.ferraro@yale.edu,Active,8-Jun-17,Site Admin,7-Jun-23,7-Jun-23,User,"User,Admin","confluence-users,jira-administrators,jira-software-users,sass,site-admins"
+632cad3f140ba0bf6519a1b8,cct-app-dev,cct-app-dev@yale.edu,Active,22-Sep-22,None,Never accessed,Never accessed,User,None,jira-software-users
+639cb05f914b350865d2cc05,ana.zuniga,ana.zuniga@yale.edu,Active,16-Dec-22,None,Never accessed,Never accessed,User,None,jira-software-users
+5a0de519f8bd442c11a39cb8,Caitlin Thompson,caitlin.thompson@yale.edu,Active,23-May-18,None,17-May-23,25-Feb-22,User,None,"Web Technologies,jira-software-users"
+557058:4ca23b5f-9450-4904-9cf2-21fcd409cc75,Andrew Newman,newman-andy@yale.edu,Active,8-Jun-17,None,5-Dec-22,31-Oct-22,User,User,"Enterprise Architecture,architecture_design,confluence-users,design_and_qa,jira-software-users"
+557058:986aa977-4b74-4151-b211-9c9fc83937cc,Alyssa DeChiaro,alyssa.dechiaro@yale.edu,Active,8-Jun-17,None,7-Jun-23,3-Mar-23,User,User,"Web Technologies,confluence-users,fy17-d6-website-migrations,jira-software-users"
+557058:1be90803-5feb-4725-ba9b-fcaab31ee94c,April Tiddei,april.tiddei@yale.edu,Active,8-Jun-17,None,9-Jun-23,30-Aug-18,User,User,"Web Technologies,confluence-users,darcy-data-warehouse,jira-software-users"
+6298c0359582b8006fc5ec52,Bernardo Rodrigues,bernardo.rodrigues@outsystems.com,Active,14-Oct-22,None,20-Oct-22,Never accessed,User,None,jira-software-users
+5dfd0aff3aab9f0cafa066b3,Albert Labozzo,albert.labozzo@yale.edu,Active,20-Dec-19,None,14-Feb-23,8-Jun-23,User,User,"confluence-users,infosec,infosec-jira,jira-software-users"
+62a36324932059006f91f675,Alejandro Mayorga,alejandro.mayorga@yale.edu,Active,13-Jun-22,None,8-Jun-23,4-May-23,User,User,"FTS Quality Assurance,confluence-users,jira-software-users"
+61675ada64ff010071db6b6c,Angelena Carfora Inorio,angelena.carforainorio@yale.edu,Active,18-Apr-22,None,26-Oct-22,Never accessed,User,User,"confluence-users,jira-software-users"
+557058:f7b7cbb9-42a7-4970-bdf2-d222d64e6fdb,Anna Maria Hummerstone,annamaria.hummerstone@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+5ae88608626b42214cd2d09a,Brian Funaro,brian.funaro@yale.edu,Active,5-Apr-22,None,Never accessed,28-Mar-23,None,User,confluence-users
+557058:b6e39aac-5c4d-497f-ae7a-c98683f5809c,Blanche Temple,blanche.temple@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+624ae0cef40798007058beea,Andrew Kinnier,andrew.kinnier@yale.edu,Active,4-Apr-22,None,12-Apr-22,Never accessed,User,User,"confluence-users,jira-software-users,sass"
+61df1d13ce3652006a2d81eb,Aedan Spaar,aedan.spaar@yale.edu,Active,24-Feb-22,None,Never accessed,3-Jan-23,None,User,confluence-users
+557058:29a3a3e5-f260-4e02-a5c2-a8e9172d96e8,Chi Nguyen,chi.nguyen@yale.edu,Active,18-Aug-21,None,9-Jun-23,17-Feb-23,User,User,"confluence-users,jira-software-users"
+6081c0b8a6eda600687c9352,Steven Martinez,s.martinez@yale.edu,Active,22-Apr-21,None,27-May-21,23-Jun-21,User,User,"confluence-users,jira-software-users"
+625ca060f698310070a6abd2,Andrea Izzy Anthony,andrea.anthony@yale.edu,Active,31-May-23,None,6-Jun-23,31-May-23,User,User,"confluence-users,jira-software-users"
+62d5844783067f68f84fe8db,Adrian Martinez,a.martinez@yale.edu,Active,18-Jul-22,None,8-Jun-23,2-Aug-22,User,User,"FTS Quality Assurance,confluence-users,jira-software-users"
+557058:9df7f726-cfa0-4732-8334-e17a32c5b611,Alina Nevins,alina.nevins@yale.edu,Active,4-May-23,None,4-May-23,31-May-18,User,User,"confluence-users,jira-software-users,sass-functional"
+628b98e2ab91fe0070975438,Adam Hoke,adam.hoke@yale.edu,Active,23-May-22,None,15-Nov-22,8-Jun-23,User,User,"confluence-users,infosec,jira-software-users"
+6419ca1a9d2bc6c90a8aee8d,anne-sofiedahl.pedersen,anne-sofiedahl.pedersen@yale.edu,Active,21-Mar-23,None,Never accessed,Never accessed,User,User,"confluence-users,jira-software-users"
+61676824071a720071ca9073,Austin Hanlin,austin.hanlin@yale.edu,Active,27-Jul-22,None,1-Mar-23,Never accessed,User,User,"URO,confluence-users,jira-software-users"
+6320d5ca55a96b85c311bfe9,Sasha Bideau,alexandra.bideau@yale.edu,Active,13-Sep-22,None,7-Jun-23,24-May-23,User,User,"confluence-users,jira-software-users,sass"
+5e7272c1aab8250c443e7411,Chelsey Toong,chelsey.toong@yale.edu,Active,21-Sep-22,None,8-Jun-23,2-Jun-23,User,User,"confluence-users,jira-software-users"
+630674c67cedcad7664dc13b,Anne Pedersen,anne.pedersen@yale.edu,Active,24-Aug-22,None,6-Jun-23,18-May-23,User,User,"FTS Quality Assurance,confluence-users,darcy-data-warehouse,jira-software-users"
+610bfd98ae72b2006f74b044,Alberto Darce,alberto.darce@yale.edu,Active,5-Aug-21,None,2-Dec-21,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+621f6ebea1245000688733cd,Callin Mullaney,callin.mullaney@yale.edu,Active,2-Mar-22,None,2-Mar-22,Never accessed,User,None,"Web Technologies,jira-software-users"
+612e4dc9aeb25600697e8995,Alberto Cruz-gil,alberto.cruz-gil@yale.edu,Active,31-Aug-21,None,28-Jul-22,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+60df3e0e7d016900704d2d5e,Cedric Benoit,cedric.benoit@yale.edu,Active,2-Jul-21,None,10-Jan-23,2-Jun-23,User,User,"confluence-users,jira-software-users"
+557058:21e86ade-07e1-45ef-9e65-ddcce5443ae4,Alan Shapiro,alan.shapiro@yale.edu,Active,8-Jun-17,None,8-Jun-23,8-Jun-23,User,User,"Facilities,confluence-users,jira-software-users"
+5e14b65e4006ea0ea32872e4,Brandon Tassone,brandon.tassone@yale.edu,Active,13-Mar-20,None,Never accessed,9-Jun-23,None,User,"Yale_Cloud,confluence-users"
+557058:5641f4e7-4165-4850-bc2f-10e7e6c52098,Chris Lane,chris.lane@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,"confluence-users,dno"
+557058:e6b2ba2e-67f1-4ff2-8a32-86e7a45e319f,A. Michael Blomberg,michael.blomberg@yale.edu,Active,8-Jun-17,None,12-Jun-20,Never accessed,None,User,"FTS Quality Assurance,Foundational Technologies,confluence-users"
+622f3bb31dcf800070e80b3f,Aaron Wilkey,aaron.wilkey@yale.edu,Active,14-Mar-22,None,6-Jun-23,6-Jun-23,User,User,"confluence-users,jira-software-users"
+5afc2debf2c43a52691f1dd6,Beth McKinley,beth.mckinley@yale.edu,Active,23-Sep-19,None,2-Dec-19,Never accessed,None,None,Change Management
+557058:3e13bd56-0b5f-4daa-b7fb-f3af8a57c068,Anton Glenbovitch,anton.glenbovitch@yale.edu,Active,8-Jun-17,None,8-Jun-23,8-Jun-23,User,User,"confluence-users,jira-software-users,sass"
+5e53e36b459a810c9af19f4d,Alexandra Barreuther,alexandra.barreuther@yale.edu,Active,24-Feb-20,None,24-Feb-20,Never accessed,None,None,HR Innovation & Strategic Support
+5cb89df4cfb7cd11c74ceb42,Andres Rua,andres.rua@yale.edu,Active,1-Nov-22,None,5-Jun-23,9-Nov-22,User,User,"confluence-users,jira-software-users"
+557058:e62fa455-4813-46ea-94de-8e797f20b7ca,Andrew Sherman,andrew.sherman@yale.edu,Active,22-Mar-19,None,Never accessed,24-Jul-20,None,User,confluence-users
+557058:973e21d2-b388-4b0f-a076-789ba27be228,Arvind Mehta,arvind.mehta@yale.edu,Active,8-Jun-17,None,Never accessed,13-Feb-23,None,User,confluence-users
+6123a113dd255200768b51f5,Aliza Knight,aliza.knight@yale.edu,Active,23-Aug-21,None,5-Jun-23,15-May-23,User,User,"confluence-users,jira-software-users,sass"
+557058:ab962254-97b8-4d6a-8676-0bd0330e17ac,Arjen Lissenberg,arjen.lissenberg@yale.edu,Active,8-Jun-17,None,6-Jun-23,24-May-23,User,User,"Academic Technologies,confluence-users,jira-software-users,sass,sfas"
+5ed5112485dc820c2344763f,Aliaksei Adamik,aliaksei.adamik@yale.edu,Active,5-Jun-20,None,17-Mar-23,9-Jun-23,User,User,"confluence-users,jira-software-users,sa-linux"
+5b1a9507c2fc1b1bc37bbc97,Annabelle Halliday,annabelle.halliday@yale.edu,Active,5-Mar-21,None,14-Feb-22,17-Jun-21,User,None,"Web Technologies,jira-software-users"
+557058:a65eb3a6-d14f-443c-9fa6-a8207fbfa907,Amy Keach,amy.keach@yale.edu,Active,8-Jun-17,None,9-Jun-23,6-Jun-23,User,User,"AYA Development,confluence-users,darcy-data-warehouse,jira-software-users"
+5f11c1a170b8a90025c98ae3,Badreldin Ahmed,badreldin.ahmed@yale.edu,Active,2-Jun-23,None,24-Jul-20,6-Jun-23,None,User,"confluence-users,platform-dba"
+557058:486b48b1-95ec-4da3-9434-4c6e8185901e,Antonio Valderrama,antonio.valderrama@yale.edu,Active,26-Oct-17,None,26-Oct-17,10-May-23,None,User,"confluence-users,dno"
+557058:44adc01c-9632-4f07-8f37-93b8a7eaaf23,Andrew Guirguis,andrew.guirguis@yale.edu,Active,18-Oct-17,None,19-Oct-17,13-Dec-21,None,User,"confluence-users,sa-linux"
+5da4d2e75f18bb0c40fece88,Shaun McGovern,shaun.mcgovern@yale.edu,Active,14-Oct-19,None,19-Oct-22,8-Jun-23,User,User,"confluence-users,infosec-jira,jira-software-users"
+6206c7d8f5d29a0068fcea90,Ayerim Ramirez,ayerim.ramirez@yale.edu,Active,11-Feb-22,None,6-Jun-23,Never accessed,User,User,"FTS Quality Assurance,Foundational Technologies,confluence-users,iam,jira-software-users"
+557058:82106ef3-af5b-48f9-9dd9-620afa007caf,Arthur Greiser,arthur.greiser@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+712020:01d22921-cbed-4480-b56f-7de42af3d585,Charlotte Ahles,charlotte.ahles@yale.edu,Active,11-May-23,None,6-Jun-23,Never accessed,User,User,"confluence-users,jira-software-users"
+60f5c8432b56cc00695ddc0e,Cassandra Cuddy,cassandra.cuddy@yale.edu,Active,20-Jul-21,None,Never accessed,19-Jul-21,User,None,jira-software-users
+5ec2d5e3a1925f0c19301672,sandra.germenis,sandra.germenis@yale.edu,Active,18-May-20,None,Never accessed,Never accessed,None,User,"SLT,confluence-users"
+557058:1c58c1e7-dcf9-4c0f-8f46-bc72395df69d,Richard Dwyer,richard.dwyer@yale.edu,Active,1-Nov-22,None,19-May-23,Never accessed,User,User,"confluence-users,jira-software-users"
+557058:354895cf-950d-434d-b6c5-82944ab8a1ea,Rich Guerriero,richard.guerriero@yale.edu,Active,8-Jun-17,None,8-Dec-21,17-Mar-23,User,User,"confluence-users,jira-software-users,public_safety"
+603d219c81a8400068b8382e,Siddardh Namburi,siddardh.namburi@yale.edu,Active,3-Mar-21,None,16-Aug-22,25-Jan-23,User,User,"FTS Quality Assurance,confluence-users,jira-software-users"
+62a8dbeebf7afc006f3b8cd3,Bob Solimine,robert.solimine@yale.edu,Active,15-Jun-22,None,Never accessed,25-May-23,None,User,"confluence-users,public_safety"
+557058:8b12b1ae-5059-4e3a-974f-e994a798692a,Kay Ratanasaka,kay.ratanasaka@yale.edu,Active,8-Jun-17,None,15-Sep-20,11-Apr-23,User,User,"confluence-users,jira-software-users,sa-linux"
+61e9938d7ae0dc006aba7020,Kristian Rivera-Santiago,kristian.rivera.santiago@yale.edu,Active,1-Feb-22,None,8-Jun-23,8-Jun-23,User,User,"Web Technologies,confluence-users,jira-software-users"
+557058:bcb019d6-813b-400e-86b8-56854786d2b8,Lisa Sawin,lisa.sawin@yale.edu,Active,11-Oct-17,None,5-Jun-23,20-Sep-21,User,User,"DA,SLT,Web Technologies,confluence-users,jira-software-users"
+557058:ce6e4af3-62a5-4662-9fc2-a1d070196fd9,Luis Ribeiro,luis.ribeiro@yale.edu,Active,8-Jun-17,None,25-Jul-20,Never accessed,User,User,"confluence-users,jira-software-users"
+5af5d1cf73a44f0c6892f0cc,Keith Boyd-Carter,keith.boyd-carter@yale.edu,Active,7-Jun-19,None,7-Jul-20,7-Jul-20,User,User,"confluence-users,jira-software-users"
+5a81ed2bec316331feff1211,Kim Miller,kim.miller@yale.edu,Active,12-Feb-18,None,17-Aug-22,21-Jul-20,User,User,"Web Technologies,confluence-users,jira-software-users"
+62276187f1e55c0070f1a1cc,Leicy Azpeitia,leicy.azpeitia@yale.edu,Active,8-Mar-22,None,8-Jun-23,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+61bb40b31baa2b0069ee59d4,Kumar Ganesan,kumar.ganesan@yale.edu,Active,2-Feb-22,None,5-Jun-23,24-Oct-22,User,User,"confluence-users,jira-software-users"
+557058:752f44d3-00f5-469f-a15b-56184bedd5ec,Marissa Kitz,marissa.kitz@yale.edu,Active,8-Jun-17,None,15-Oct-21,15-Oct-21,User,User,"bsg-application-services,confluence-users,darcy-data-warehouse,jira-software-users"
+5da4959cfafbd40dd5892be5,Kory Riddle,kory.riddle@yale.edu,Active,14-Oct-19,None,18-May-23,9-Mar-23,User,User,"SIS Data Governance,URO,confluence-users,jira-software-users,sass-functional"
+5ce5430fc33a5d0dcf0b7400,Kevin O'Donnell,kevin.odonnell@yale.edu,Active,22-May-19,None,Never accessed,19-Apr-23,None,User,"confluence-users,dno"
+557058:f0499d36-88ed-4d0a-9ea3-9e100e9957f5,Justin Denny,justin.denny@yale.edu,Active,8-Jun-17,None,Never accessed,5-Jun-23,None,User,"confluence-users,iam"
+5ff48df2dd5eb50108c92f46,Madison Lazaro,madison.lazaro@yale.edu,Active,5-Jan-21,None,Never accessed,6-Jun-23,None,User,"confluence-users,sa-linux"
+557058:90af5506-de2f-41d4-b69c-6fd57f2208d0,Lucy Lin,lucy.lin@yale.edu,Active,8-Jun-17,None,9-Jun-23,16-Mar-23,User,User,"confluence-users,jira-software-users,sass,sfas"
+5a53d3abeb8cdb7a2cb272a6,Kirsten Daly,kirsten.daly@yale.edu,Active,8-Jan-18,None,12-Jun-19,6-Feb-23,None,User,"bsg-application-services,confluence-users"
+557058:0c49c824-e5d9-4d29-9ae4-5359205c8c66,laurie.ongley@yale.edu,laurie.ongley@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+5a53d5c0a8e4762022f51156,Kevin Cox,kevin.cox@yale.edu,Active,8-Jan-18,None,Never accessed,1-Feb-23,None,User,"bsg-application-services,confluence-users,taldev_admins"
+625b0ff4c23e5b006ab5cc47,Kyrie Perry,kyrie.perry@yale.edu,Active,18-Apr-22,None,15-May-23,Never accessed,User,User,"confluence-users,jira-software-users"
+612cf846f0bf5200692bb41d,Kimberly Saving-sherman,kimberly.saving-sherman@yale.edu,Active,30-Aug-21,None,7-Jun-23,1-Jun-23,User,User,"confluence-users,jira-software-users,sass,sass-consultants"
+641b5b3c1273131f2ae25180,Kajal Raj,kajal.raj@yale.edu,Active,22-Mar-23,None,8-Jun-23,6-Jun-23,User,User,"FTS Quality Assurance,confluence-users,jira-software-users"
+61eecc2f9e89390069fb10b0,Leena Kommawar,leena.kommawar@yale.edu,Active,24-Jan-22,None,7-Jun-23,3-Nov-22,User,User,"AYA Development,confluence-users,darcy-data-warehouse,jira-software-users"
+5f5a3abbc9c528007cbb46f5,Louisa de Cossy,louisa.decossy@yale.edu,Active,12-Oct-20,None,Never accessed,1-Feb-23,None,User,"confluence-users,iam"
+62f501ce432ef494c8cc808c,Julien Gordon,julien.gordon@yale.edu,Active,11-Aug-22,None,Never accessed,19-Aug-22,None,User,"confluence-users,platform-dba"
+557058:a71c25fc-40ae-4bca-b8d3-6da4b47ab375,Kalee Sprague,kalee.sprague@yale.edu,Active,8-Jun-17,None,25-Feb-20,26-Jul-22,None,User,"confluence-users,library_it"
+712020:d7d0c94f-f175-406c-9833-10640274a211,Madeline Wilson,madeline.wilson@yale.edu,Active,31-May-23,None,5-Jun-23,Never accessed,User,User,"confluence-users,jira-software-users"
+557058:7609a220-5453-4903-8879-bbfdb46179c5,Kraig Eisenman,kraig.eisenman@yale.edu,Active,8-Jun-17,None,Never accessed,9-Jun-23,None,User,"Cloud Engineering,confluence-users"
+557058:c24f522b-ce44-4c9f-990c-7099cd1a8ec9,Kiran Keshav,kiran.keshav@yale.edu,Active,8-Jun-17,None,Never accessed,11-Jun-18,None,User,confluence-users
+557058:f4918662-812d-4dc3-962e-5d83eb956a0f,Kazi Ahmed,kazi.ahmed@yale.edu,Active,8-Jun-17,None,5-Sep-22,19-May-23,User,User,"ITS Enterprise Applications - Cross Applications Platforms,bsg-application-services,confluence-users,darcy-data-warehouse,jira-software-users"
+5dee66185017c00ec74f146b,Katie Cox,kathryn.cox@yale.edu,Active,14-Jun-22,None,5-Apr-23,Never accessed,User,None,jira-software-users
+5c339d9ab4d5d75a3b51d847,Kim Zaweski,kimberly.babbitt@yale.edu,Active,7-Jan-19,None,7-Jan-19,Never accessed,None,None,
+59f6eb5e0ed52d6a22b058d2,Margaret Gallagher,meg.gallagher@yale.edu,Active,30-Jan-18,None,5-Apr-23,23-Jul-21,User,User,"confluence-users,jira-software-users,sass,sass-consultants"
+5e0e56ef3ebba10e937f0b18,Kameryn Larkins,kameryn.larkins@yale.edu,Active,5-Jan-21,None,Never accessed,21-Sep-21,None,User,confluence-users
+557058:8024e30b-793b-481d-bf6e-b20d80a75458,Jyh Hwei Yen,jyh-hwei.yen@yale.edu,Active,7-Jul-17,None,Never accessed,8-May-23,None,User,"confluence-users,data-management"
+557058:1cc82541-725b-475e-9532-c66efbe4dd0c,Julie Ramaccia,julie.ramaccia@yale.edu,Active,8-Jun-17,None,8-Jun-23,15-Jul-21,User,User,"Web Technologies,confluence-users,fy17-d6-website-migrations,jira-software-users"
+607869d2852e71006c97860d,Kristen Thudium,kristen.thudium@yale.edu,Active,15-Apr-21,None,9-Jun-23,Never accessed,User,None,"Web Technologies,jira-software-users"
+557058:33421409-d531-4b5a-85fe-b48086ab1e63,k.anderson@yale.edu,k.anderson@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+61893306f1ff560069ace055,Leanna Phan,leanna.phan@yale.edu,Active,8-Nov-21,None,24-May-22,Never accessed,User,None,"jira-software-users,sass-consultants"
+5e5407614befbd0c96c9db11,Kelsey Viani,kelsey.viani@yale.edu,Active,24-Feb-20,None,Never accessed,4-Apr-23,None,User,"confluence-users,dno"
+557058:4da63fdc-e2e8-4f2b-ad62-007d432425aa,Maryann Colonna,maryann.colonna@yale.edu,Active,8-Jun-17,None,8-Jun-23,5-Jun-23,User,User,"AYA Development,confluence-users,darcy-data-warehouse,jira-software-users"
+615333a572f6970069f97be9,Kevin Kutys,kevin.kutys@yale.edu,Active,5-Oct-21,None,10-Jan-23,25-Apr-23,User,User,"FTS Quality Assurance,ITS Enterprise Applications - Cross Applications Platforms,confluence-users,jira-software-users"
+5aea266712b7982a5756b9a0,Kathryn Siniscalco,kathryn.siniscalco@yale.edu,Active,2-May-18,None,3-Mar-20,7-Jun-23,User,User,"confluence-users,jira-software-users"
+63a1e3a4030d706ab0e24889,Lynne Wagner,lynne.wagner@yale.edu,Active,20-Dec-22,None,2-Mar-23,23-Feb-23,User,User,"confluence-users,jira-software-users,sass-consultants"
+6318774a09bc6014ea8c991f,José Luiz Martins Glicerio,jose.glicerio@outsystems.com,Active,14-Oct-22,None,9-Dec-22,Never accessed,User,None,jira-software-users
+62b31400566f3e7b0a8fcec6,Luis Montes,luis.montes@yale.edu,Active,28-Jun-22,None,6-Jun-23,24-May-23,User,User,"confluence-users,darcy-data-warehouse,jira-software-users"
+712020:117bf8ce-aaa5-4662-a07e-b3167418691a,Luis Jimenez,luis.jimenez@yale.edu,Active,26-May-23,None,8-Jun-23,Never accessed,User,User,"confluence-users,jira-software-users"
+557058:69dad866-1f54-4a99-b9e8-78e70d05289a,julianne.satterwhite@yale.edu,julianne.satterwhite@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+627184e6106b60006f57ab8f,Maria Belli,maria.belli@yale.edu,Active,17-Apr-23,None,Never accessed,5-Jun-23,None,User,confluence-users
+557058:c4853755-c4bb-46b3-adab-13e690c4677d,Maria Brooks,maria.brooks@yale.edu,Active,8-Jun-17,None,11-Sep-19,18-Aug-22,None,User,"confluence-users,iam"
+5e1c73c40f45160ca25c3602,Luis Gutierrez,luis.gutierrez@yale.edu,Active,13-Jan-20,None,12-Nov-21,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+61855f022097220071c2998c,Louis Fappiano,louis.fappiano@yale.edu,Active,5-Nov-21,None,Never accessed,15-Nov-22,None,User,confluence-users
+712020:6f374a8d-7265-43da-859e-575a767c86b3,Kristopher Goertz,kristopher.goertz@yale.edu,Active,31-May-23,None,8-Jun-23,Never accessed,User,User,"confluence-users,jira-software-users"
+60f1869db9ef6f0069386182,Kyra Ho-yen,kyra.ho-yen@yale.edu,Active,16-Jul-21,None,8-Nov-21,23-Jul-21,User,User,"AYA Development,confluence-users,darcy-data-warehouse,jira-software-users"
+70121:9d7943de-6652-452e-bac7-700e878ed921,Kathleen Omollo,kathleen.omollo@yale.edu,Active,1-Aug-20,None,6-Jun-23,4-Jun-23,User,None,"ITS-Med,jira-software-users"
+61a8f383fe9f300068c085a3,Manuel Paredes,manuel.paredes@yale.edu,Active,2-Dec-21,None,1-Jun-23,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+6166d5a7071a720071c17586,Matteo Gaudio,matteo.gaudio@yale.edu,Active,28-Oct-21,None,31-Jan-23,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+5d6fd5f3608c0a0dae6f68d5,Lily Svensen,lily.svensen@yale.edu,Active,4-Sep-19,None,14-May-20,Never accessed,User,None,"SIS Data Governance,jira-software-users"
+557058:bd6953c3-75c0-4e82-b69b-336300921ac6,Kevin Quigley,kevin.quigley@yale.edu,Active,8-Jun-17,None,8-Jul-20,11-Apr-22,User,User,"bsg-application-services,confluence-users,jira-software-users,taldev_admins"
+557058:81a215fb-822c-44d3-813c-ed258dd150f7,Mary Hunt,mary.hunt@yale.edu,Active,8-Jun-17,None,6-Jun-23,6-Jun-23,User,User,"AYA Development,confluence-users,darcy-data-warehouse,jira-software-users"
+5a423010bf15233dc7eaa51c,Madeline Mathers,madeline.mathers@yale.edu,Active,26-Dec-17,None,24-May-23,24-May-23,User,User,"AYA Development,confluence-users,darcy-data-warehouse,jira-software-users"
+5be4803a7531996236305910,Linda M. Carbonell Faust,linda.carbonell@yale.edu,Active,8-Nov-18,None,6-Jul-22,10-Feb-23,User,User,"confluence-users,infosec-jira,jira-software-users"
+557058:41a4e0f0-0808-4350-b1d9-4bb874ff4d08,Kathleen Broderick,kathleen.broderick@yale.edu,Active,8-Jun-17,None,31-Aug-20,7-Dec-21,User,User,"confluence-users,jira-software-users,wd_report_dev"
+557058:426044ca-3720-4f4d-9635-06022873f5d4,Lori Stopka,lori.stopka@yale.edu,Active,8-Jun-17,None,9-Jun-23,7-Jun-23,User,User,"Facilities,confluence-users,jira-software-users"
+557058:c6e8faee-ac8b-49e8-95dc-746fadf96f9e,Marty Wallace,marty.wallace@yale.edu,Active,8-Jun-17,None,Never accessed,30-Jan-19,None,User,confluence-users
+557058:6834e1bc-b048-4019-a073-6bf630170ced,Kenneth Hudson,kenneth.hudson@yale.edu,Active,8-Jun-17,None,7-Oct-21,6-Oct-21,User,User,"classes*v2,confluence-users,jira-software-users"
+5db0c41e0343b80c307a66c5,Kristie Cogdell,kristie.cogdell@yale.edu,Active,23-Oct-19,None,6-Apr-20,27-Jan-20,None,User,confluence-users
+611abe00ee947000717df80b,Mariana Rendon,mariana.rendon@yale.edu,Active,16-Aug-21,None,17-Dec-21,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+712020:72590fc8-fad6-49be-bc4d-a7e13c515d30,Lynn Saiers,lynn.saiers@yale.edu,Active,5-May-23,None,5-May-23,Never accessed,User,None,jira-software-users
+557058:d84ce2a5-b664-434b-99dc-d40b3335f261,Kristina Sanchez,kristina.sanchez@yale.edu,Active,27-Jun-17,None,27-Mar-23,5-Oct-22,User,User,"CTL,confluence-users,jira-software-users"
+5bb3f131d535e7075ae70a65,Martial Jefferson,martial.jefferson@yale.edu,Active,28-Feb-20,None,21-Mar-20,20-May-20,None,User,confluence-users
+557058:59d0ca4f-328d-4c97-a069-0725a51a39c2,Judy Offutt,judy.offutt@yale.edu,Active,8-Jun-17,None,6-Dec-22,19-Nov-21,User,User,"HR Innovation & Strategic Support,confluence-users,jira-software-users"
+60429650333ff4007000f226,Kevin Brown,kevin.p.brown@yale.edu,Active,9-Mar-21,None,Never accessed,24-Mar-23,None,User,confluence-users
+557058:2af0e788-77fe-42ba-9d0d-b3baf40f0f18,Kenneth Wieler,kenneth.wieler@yale.edu,Active,8-Jun-17,None,Never accessed,6-May-20,None,User,confluence-users
+5e42bf5e5a495e0c91a74064,Kara Franco,kara.franco@yale.edu,Active,13-Feb-20,None,2-Jun-23,10-Feb-23,User,User,"DA,Web Technologies,confluence-users,jira-software-users"
+557058:0b175f0b-de97-4d26-aacc-df19bea5e047,Kerry Worsencroft,kerry.worsencroft@yale.edu,Active,8-Jun-17,None,3-Aug-22,5-Dec-22,User,User,"SIS Working Group,confluence-users,jira-software-users"
+557058:ce488d12-3e67-48df-8e00-044a407cb027,Luis Torres,luis.torres@yale.edu,Active,8-Jun-17,None,Never accessed,15-Feb-22,None,User,"Endpoint,confluence-users"
+5b588f0880c8d12d92326360,Lino Ramirez Lozano,lino.ramirezlozano@yale.edu,Active,25-Jul-18,None,23-Apr-19,Never accessed,User,User,"FTS Quality Assurance,Foundational Technologies,confluence-users,jira-software-users"
+557058:7b393e8a-50a5-4447-92fe-76909c7202df,Matt Coshal,matthew.coshal@yale.edu,Active,18-May-18,None,31-May-22,31-May-22,User,User,"Web Technologies,confluence-users,jira-software-users"
+637e53a1de5cdaba3a67a0a9,Joe Tower,jt2245@yale.edu,Active,23-Nov-22,None,5-Jun-23,Never accessed,User,None,jira-software-users
+557058:8d2a383a-4b97-4d29-b6c0-6098d51f1837,lakshmi.sundar@yale.edu,lakshmi.sundar@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+557058:743a027b-70c7-4a9a-8dc4-7e4705c120d0,Louis King,louis.king@yale.edu,Active,8-Jun-17,None,18-May-23,1-Jun-23,User,User,"Enterprise Architecture,confluence-users,darcy-data-warehouse,design_and_qa,jira-software-users"
+557058:467bff3e-c1de-475d-a25c-18c001c0e0a0,Lou Rinaldi,louis.rinaldi@yale.edu,Active,5-Dec-20,None,Never accessed,8-Jun-23,None,User,"confluence-users,sa-linux"
+5e4fe402a17f930c9b954178,Magger Galvan,magger.galvan@yale.edu,Active,24-Feb-20,None,26-Feb-20,Never accessed,None,None,HR Innovation & Strategic Support
+5d14b93ae207030bd3c6c08b,Joshua Goss,joshua.goss@yale.edu,Active,27-Jun-19,None,10-Mar-22,20-Oct-21,User,User,"Web Technologies,confluence-users,jira-software-users"
+557058:05a06ca6-76e8-4d3b-a510-abb3915bfa68,Matthew Dell,matthew.r.dell@yale.edu,Active,22-Mar-19,None,14-Dec-22,1-Mar-23,User,User,"confluence-users,jira-software-users"
+6262fc9f7be65e0069365002,Lourdes Miranda-ugrinow,lourdes.miranda-ugrinow@yale.edu,Active,17-May-22,None,20-Oct-22,Never accessed,User,None,jira-software-users
+63b464c5030d706ab0e52fd8,Liliana Castorena,liliana.castorena@yale.edu,Active,3-Jan-23,None,24-May-23,4-May-23,User,None,"FTS Quality Assurance,jira-software-users"
+557058:a6c5b08f-bdf7-4016-9e3c-8593ffc3c348,Lakeisha Robinson,lakeisha.robinson@yale.edu,Active,8-Jun-17,None,Never accessed,30-Apr-20,None,User,"confluence-users,library_it"
+63c82a1d0036340dcb5cfdde,Mariana Nuñez,mariana.nuez@yale.edu,Active,18-Jan-23,None,2-May-23,Never accessed,User,None,jira-software-users
+5f47dcbefcaf93003b0da12e,Judith Martinez,judith.martinez@yale.edu,Active,27-Aug-20,None,28-May-21,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+628d42591a437e0070422e46,Kurt Eckert,kurt.eckert@yale.edu,Active,24-May-22,None,14-Feb-23,16-Feb-23,User,User,"confluence-users,jira-software-users"
+6333073661dbef2805bf7540,Madhusudhan Sureddy,madhusudhan.sureddy@yale.edu,Active,27-Sep-22,None,Never accessed,6-Jun-23,None,User,"confluence-users,platform-dba,sa-linux"
+60394947ac6e4e006906c875,Kristen Markarian,kristen.markarian@yale.edu,Active,26-Feb-21,None,8-Jun-23,17-May-23,User,User,"Facilities,confluence-users,jira-software-users"
+6318bb784fbe9c4bd0ef5e8e,Kim Roark Loveland,kimberly.roarkloveland@yale.edu,Active,7-Sep-22,None,8-Jun-23,8-Jun-23,User,User,"Web Technologies,confluence-users,jira-software-users"
+62cc670aa94a6f9c0efe3dd5,Marc Berger,marc.berger@yale.edu,Active,11-Jul-22,None,8-Jun-23,Never accessed,User,None,jira-software-users
+557058:12762e42-24fe-4436-916a-02f2f4a31f09,Louis Tiseo,louis.tiseo@yale.edu,Active,8-Jun-17,None,24-Jun-20,19-May-20,User,User,"SLT,confluence-users,jira-software-users"
+557058:625e1e89-799a-4ea3-95c2-60b0487e8bdb,kimberly.pasko@yale.edu,kimberly.pasko@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+557058:bc5d940c-568d-4b0a-8cf1-41e5956fd549,J'Vaughn Johnson,jvaughn.johnson@yale.edu,Active,8-Jun-17,None,1-Jun-23,31-May-23,User,User,"Web Technologies,confluence-users,fy17-d6-website-migrations,jira-software-users"
+557058:d7ec96da-1cc7-4d04-839c-f687ea7b1bab,Mark Wogahn,mark.wogahn@yale.edu,Active,1-Sep-17,None,Never accessed,16-Jun-20,None,User,confluence-users
+5cae1a9e8ceea6273c169e93,Luis Martinez,luis.martinez@yale.edu,Active,10-Apr-19,None,8-Jun-23,Never accessed,User,User,"FTS Quality Assurance,confluence-users,jira-software-users"
+6213ea8c505e68006ad58d36,Leobardo Gomez Flores,leobardoantonio.gomezflores@yale.edu,Active,21-Feb-22,None,6-Jun-23,8-Mar-23,User,User,"confluence-users,jira-software-users,sass,sass-functional"
+5c9bb6fe148de6055bbcee39,Mayanna Bean,mayanna.bean@yale.edu,Active,27-Mar-19,None,7-Jun-23,11-Apr-23,User,User,"confluence-users,jira-software-users,sass"
+557058:e6fbfd1c-343f-45e5-93cf-44ab65d4b099,Ramesh Gade,ramesh.gade@yale.edu,Active,8-Jun-17,None,Never accessed,2-Sep-20,None,User,"bsg-application-services,confluence-users"
+557058:0cc392a9-2ef4-44bc-a00a-8d51dfa10c40,Naomi Raviv,naomi.raviv@yale.edu,Active,8-Jun-17,None,9-Mar-22,18-Nov-20,User,User,"EA: Research Enterprise,confluence-users,jira-software-users"
+557058:42d96a5c-0d7d-420e-83f3-d41d6a86237c,Michael Friscia,michael.friscia@yale.edu,Active,8-Jun-17,None,Never accessed,3-Jan-23,None,User,"confluence-users,library_it"
+712020:af7929c6-8db6-4706-b6bd-4ab30b2a2a64,mohammad.atohmoshli,mohammad.atohmoshli@yale.edu,Active,5-May-23,None,Never accessed,Never accessed,User,User,"SASS Summer Interns,confluence-users,jira-software-users"
+6283cbfa56b847006976d57c,Michelle Williamson,michelle.williamson@yale.edu,Active,17-May-22,None,31-May-22,Never accessed,User,None,"Web Technologies,jira-software-users"
+557058:5c571686-4f41-4832-a78f-bf0492ba0b87,Norman Morales,norman.morales@yale.edu,Active,8-Jun-17,None,Never accessed,4-May-23,None,User,"confluence-users,design_and_qa,platform-dba"
+5dc19a35b6e6b50c58aec374,Piyush Kumar,piyush.kumar.pk495@yale.edu,Active,14-Jan-21,None,1-Jun-21,3-Aug-21,User,User,"confluence-users,infosec,infosec-jira,jira-software-users"
+629785229c88e7006fb5e9cf,Peter Clarke,peter.clarke@yale.edu,Active,1-Jun-22,None,Never accessed,24-Jun-22,None,User,confluence-users
+557058:5f98c37e-7858-4b7c-84b8-4f0809b5b06a,Michael Felberbaum,michael.felberbaum@yale.edu,Active,8-Jun-17,None,8-Jun-23,Never accessed,User,User,"confluence-users,darcy-data-warehouse,jira-software-users"
+5cbe0ea6cbc5a60fd804805d,Nancy Braen,nancy.braen@yale.edu,Active,22-Apr-19,None,10-May-19,8-Jun-23,User,User,"confluence-users,jira-software-users,sa-linux"
+557058:42ad0646-7671-414c-a712-6672835f4368,Michael Macary,michael.macary@yale.edu,Active,25-Jan-18,Site Admin,9-Feb-22,10-Jan-23,User,"User,Admin","administrators,confluence-administrators,confluence-users,design_and_qa,jira-software-users,site-admins"
+557058:a970b553-54d0-4645-b769-06aae043561c,Morrow Long,morrow.long@yale.edu,Active,8-Jun-17,None,24-Aug-22,23-May-23,User,User,"confluence-users,infosec,infosec-jira,jira-software-users"
+5fb2b85d3b4f590068471dff,Ramesh Balam,ramesh.balam@yale.edu,Active,16-Nov-20,None,Never accessed,2-Jun-23,None,User,"confluence-users,platform-dba"
+61d45a889ee70a00686063d4,Mekhi Amos,mekhi.amos@yale.edu,Active,4-Jan-22,None,7-Jun-23,6-Aug-22,User,User,"confluence-users,jira-software-users,sass"
+557058:f24b362d-880c-484d-949c-c63adec4bd2d,Michael Dunlap,michael.dunlap@yale.edu,Active,13-May-17,None,4-Aug-20,6-Jun-23,None,User,confluence-users
+557058:b6c7b04d-a734-4e32-89b2-20381dd85953,Pamela Miller,pamela.miller@yale.edu,Active,8-Jun-17,None,Never accessed,9-Mar-21,None,User,"confluence-users,data-management,iam,taldev_admins"
+5ade0f5bf8e21e24e0f860a4,Netal Patel,netal.patel@yale.edu,Active,23-Apr-18,None,7-Jun-23,5-Jun-23,User,User,"FTS Quality Assurance,Foundational Technologies,Web Technologies,confluence-users,iam,jira-software-users,sass-consultants"
+557058:0da43898-bcfe-47a1-bc3e-0960bd60d9a6,Michael Cicarella,michael.cicarella@yale.edu,Active,8-Jun-17,None,22-Mar-23,5-Jun-23,User,User,"confluence-users,infosec,jira-software-users"
+557058:d3a8074c-5d5e-49d3-bbf9-6cc4d150bca1,Michael Appleby,michael.appleby@yale.edu,Active,8-Jun-17,None,17-Dec-21,6-Dec-21,User,User,"confluence-users,jira-software-users"
+61115a5f627b56006864935e,Michal Minecki,michal.minecki@yale.edu,Active,9-Aug-21,None,5-Nov-21,Never accessed,User,None,"Web Technologies Clients,jira-software-users"
+629a720ea0eafd0069ea4ef1,Rachel Feinmesser,rachel.feinmesser@yale.edu,Active,6-Jun-22,None,Never accessed,Never accessed,None,User,confluence-users
+6088293bc210c1006ca785e8,Oz Caglayan,ozkan.caglayan@yale.edu,Active,27-Apr-21,None,7-Jun-23,8-Jun-23,User,User,"confluence-users,jira-software-users"
+557058:a5b68b68-1b20-4dc7-aca6-a497a8d1a36c,Ralph Nardi,ralph.nardi@yale.edu,Active,8-Jun-17,None,Never accessed,12-Oct-20,None,User,"AYA Development,confluence-users,darcy-data-warehouse"
+557058:e29c346a-4251-4669-8767-30b5bfb59514,Meng Tang,meng.tang@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,"confluence-users,library_it"
+557058:f2fd7738-1138-4974-b2e2-705bc19732aa,Michael York,michael.york@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+712020:c1627ed0-54e2-444c-a2e6-2b3b78b3be52,Natalie Bauer,natalie.bauer@yale.edu,Active,18-Apr-23,None,8-Jun-23,Never accessed,User,None,jira-software-users
+63e15355724a5c79c7baae55,Patrick Rudell,patrick.rudell@yale.edu,Active,6-Feb-23,None,8-Jun-23,Never accessed,User,None,jira-software-users
+5fc65a892730d80076eafa2f,Miguel Hernandez,m.hernandez@yale.edu,Active,1-Dec-20,None,8-Jun-23,26-Apr-23,User,None,"FTS Quality Assurance,jira-software-users,sass-consultants"
+557058:7a9f4ab9-9b3b-46bc-b6cf-8463aa6cfa47,nancy.woodington@yale.edu,nancy.woodington@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+557058:16004f6f-8348-4b05-8e8f-b4a62f956a92,Pamela Patterson,pam.patterson@yale.edu,Active,8-Jun-17,None,8-Jun-23,13-May-23,User,User,"confluence-users,jira-software-users"
+557058:abe1e6b0-1169-4147-8601-94159c081807,Paul Johnson,paul.johnson@yale.edu,Active,8-Jun-17,None,Never accessed,24-May-23,None,User,"confluence-users,dno"
+5b3b9138dca7582dd95dcdde,Michael van Emmenes,michael.vanemmenes@yale.edu,Active,3-Jul-18,None,11-May-23,Never accessed,User,User,"CPO,confluence-users,jira-software-users"
+5c7020e7a5f34221502406d6,Paul Sagar Katuri,paul.katuri@yale.edu,Active,22-Feb-19,None,30-May-19,15-May-23,None,User,"confluence-users,sa-linux"
+5bc62c63c164f85241aae23d,Maureen Velazquez,maureen.velazquez@yale.edu,Active,18-Oct-18,None,24-Sep-19,22-Feb-22,None,User,confluence-users
+5d9f4dd7ea65c10c3fdc025a,Naomi Erwich,naomi.erwich@yale.edu,Active,21-Sep-22,None,2-Jun-23,22-Mar-23,User,None,jira-software-users
+63bda9a956176e219bec92f3,Prateek Kapoor,prateek.kapoor@yale.edu,Active,10-Jan-23,None,10-Jan-23,2-Jun-23,User,User,"confluence-users,jira-software-users"
+612e4dc91dbcd900692b5240,Pratyush Gawai,pratyush.gawai@yale.edu,Active,31-Aug-21,None,7-Jun-23,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+5d7250616c94420d96fad5ac,Michael Tullo,michael.tullo@yale.edu,Active,6-Sep-19,None,8-Jun-23,2-Mar-23,User,User,"Web Technologies,confluence-users,jira-software-users"
+712020:fdc9ed76-a59f-488e-ac08-da585b337b0e,Me'Lia Ramos,melia.ramos@yale.edu,Active,14-Apr-23,None,17-Apr-23,8-Jun-23,User,User,"confluence-users,infosec-jira,jira-software-users"
+557058:30ec9f4b-66a4-4101-96d7-2346b04e4fc8,Philip Barello,phil.barello@yale.edu,Active,8-Jun-17,None,Never accessed,10-Nov-22,None,User,confluence-users
+600082b74d2179006e122e36,Patrick Lagasse,patrick.lagasse@yale.edu,Active,14-Jan-21,None,Never accessed,9-Jun-23,None,User,"confluence-users,public_safety"
+712020:31f5adef-8fe8-44e9-8f8f-2107bb81df78,Pavan Chigurupati,pavan.chigurupati@yale.edu,Active,17-Apr-23,None,Never accessed,5-Jun-23,None,User,confluence-users
+63615652a04e906250c91a34,Matthew Steiner,matthew.steiner@salesforce.com,Active,1-Nov-22,None,2-Dec-22,Never accessed,User,None,jira-software-users
+557058:e62b0259-c7dc-4ce1-852d-e7268fbee6cd,Paul Gluhosky,paul.gluhosky@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+5a8d95f621870439aa91907a,NiCole Schlagheck,nicole.schlagheck@yale.edu,Active,21-Feb-18,None,25-Mar-22,4-Sep-20,User,User,"PMO,confluence-users,darcy-data-warehouse,jira-software-users"
+5d6a80b572eab30b725f24c8,Pete Monroy,pedro.monroy@yale.edu,Active,20-May-20,None,10-Jun-20,Never accessed,User,None,jira-software-users
+557058:3d30670b-ea85-4d9d-9a83-ec21b3eaa6e2,Michael Paquette,michael.paquette@yale.edu,Active,8-Jun-17,None,Never accessed,9-Nov-18,None,User,confluence-users
+557058:092e8c48-8fad-42be-9bfa-7cceeec500a5,Michael Gadwah,michael.gadwah@yale.edu,Active,8-Jun-17,None,Never accessed,30-Aug-22,None,User,confluence-users
+5a38335d2466f4393b8ea205,Paul Rivers,paul.rivers@yale.edu,Active,19-Dec-17,None,5-Apr-21,18-Sep-21,User,User,"SLT,confluence-users,infosec,jira-software-users"
+5c588696b287111683605bc0,Nicholas Garofolo,nicholas.garofolo@yale.edu,Active,4-Feb-19,None,29-Jul-22,8-Jun-23,User,User,"confluence-users,jira-software-users,sa-linux"
+5d09fc8b074ef90c4ed40ea7,Paulo Carvalho,paulo.carvalho@outsystems.com,Active,14-Oct-22,None,23-May-23,Never accessed,User,None,jira-software-users
+557058:19f1e386-7827-4d7d-bb0c-583ff5c31082,Neha Agrawal,neha.agrawal@yale.edu,Active,8-Jun-17,None,Never accessed,13-Oct-21,User,User,"confluence-users,jira-software-users"
+615c4c2707ac3c00680f2613,Michael Macary,macary.mike@gmail.com,Active,5-Oct-21,Site Admin,Never accessed,Never accessed,User,"User,Admin","confluence-users,jira-software-users,site-admins"
+557058:bb830349-e20d-4153-8007-bf4b55a13be7,Michael Dinice,michael.dinice@yale.edu,Active,8-Jun-17,Site Admin,10-Aug-22,11-May-23,User,"User,Admin","confluence-administrators,confluence-users,sa-windows,site-admins"
+712020:f38364c7-3863-4b3d-ad8e-d14bbe21b3f0,Michelle Cochran,michelle.cochran@yale.edu,Active,4-Apr-23,None,8-May-23,Never accessed,User,None,jira-software-users
+61eb06449d1740006903147e,Mauricio Espinoza,mauricio.espinoza@yale.edu,Active,21-Jan-22,None,23-May-23,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+5b3a8cabab9cec2ed5a3c20b,Max Barreuther,max.barreuther@yale.edu,Active,17-Jul-18,None,3-Apr-20,27-Jan-21,User,User,"Web Technologies,confluence-users,jira-software-users"
+62c6e86f9763a5e602707625,Micah Nellums,micah.nellums@yale.edu,Active,7-Jul-22,None,6-Jun-23,9-May-23,User,User,"CTL,confluence-users,jira-software-users"
+557058:96de94be-b77f-4703-b8b8-75808fa00895,Michael Satterwhite,michael.satterwhite@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,"confluence-users,wd_report_dev"
+63e14dce82eeee78a4d142ae,Precious Humphrey,precious.humphrey@yale.edu,Active,6-Feb-23,None,Never accessed,6-Jun-23,None,User,confluence-users
+712020:193276f6-4d88-49ac-8c9f-d4f68e72571b,nidish.rekulapalli,nidish.rekulapalli@yale.edu,Active,31-May-23,None,Never accessed,Never accessed,User,User,"confluence-users,jira-software-users"
+557058:de65675c-0689-4b12-9689-6705e80c0a44,Michelle Morgan,michelle.morgan@yale.edu,Active,8-Jun-17,None,1-Nov-22,9-May-23,User,User,"Web Technologies,confluence-users,jira-software-users"
+59f73a1319ffba72a61a8402,Nick Marino,nick.marino@yale.edu,Active,2-Nov-17,None,9-Jun-23,3-May-23,User,User,"AYA Development,confluence-users,darcy-data-warehouse,jira-software-users"
+6213bdfc6b7e24006a794679,Naveen Akula,naveen.akula@yale.edu,Active,21-Feb-22,None,Never accessed,7-Jun-23,User,User,"Yale_Cloud,confluence-users,jira-software-users"
+629e02b1932059006f8ecf66,Michael Macesker,michael.macesker@yale.edu,Active,6-Jun-22,None,7-Jun-23,12-May-23,User,User,"confluence-users,jira-software-users"
+6310cd8109bc6014ea8b492b,Omar Abid,omar.abid@yale.edu,Active,1-Sep-22,None,31-Jan-23,31-Jan-23,User,User,"FTS Quality Assurance,confluence-users,darcy-data-warehouse,jira-software-users"
+62f3b2981323922c61e43586,Michelle Buckholz,michelle.buckholz@yale.edu,Active,5-May-23,None,Never accessed,10-Aug-22,User,User,"confluence-users,jira-software-users,sass-functional"
+5fa9732f99b42e0069f1e3d0,Mrizwan Muneer,mrizwan.muneer@yale.edu,Active,9-Nov-20,None,Never accessed,31-May-23,None,User,"confluence-users,sa-linux"
+5e299e99832d730ca201386e,Nishanth Yellu,nishanth.yellu@yale.edu,Active,23-Jan-20,None,7-Jun-23,7-Jun-23,User,User,"confluence-users,jira-software-users,sass,sass-consultants"
+6213becc708417006bc79b4a,Maximus Banla,maximus.banla@yale.edu,Active,21-Feb-22,None,Never accessed,22-Feb-22,None,User,"confluence-users,infosec-jira"
+557058:846070c2-3664-412f-a72f-e88843a407e9,Michael DiMaggio,michael.dimaggio@yale.edu,Active,8-Jun-17,None,2-Feb-21,19-Aug-21,User,User,"confluence-users,infosec,infosec-jira,jira-software-users"
+70121:32669342-c30a-40c5-8d69-4b0988d577c5,Ozan Say,yasar.say@yale.edu,Active,4-May-23,None,5-May-23,Never accessed,User,User,"confluence-users,jira-software-users,sass-functional"
+557058:d447d01c-c95c-40e5-ba01-f484522d47f7,Rajender Ponnama,rajender.ponnama@yale.edu,Active,8-Jun-17,None,6-Jan-22,23-Aug-22,User,User,"confluence-users,data-management,iam,jira-software-users,taldev_admins"
+640630749ce2cd2c240f9996,Paul Erickson,paul.erickson@yale.edu,Active,24-Mar-23,None,Never accessed,9-May-23,None,User,"confluence-users,iam"
+5bae8c823a6aa22dbebb4e49,Nicholas Pasacreta,nicholas.pasacreta@yale.edu,Active,28-Apr-22,None,7-May-23,5-May-23,User,User,"confluence-users,darcy-data-warehouse,jira-software-users"
+60c8e43000bdd9006800fa57,Olamiposi Kolajo,olamiposi.kolajo@yale.edu,Active,15-Jun-21,None,Never accessed,15-Oct-21,None,User,confluence-users
+557058:c8f24701-9b6f-41c2-93a0-6d9b3eb2cb2e,Poojitha Kuraganti,Poojitha.Kuraganti@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,"confluence-users,wd_report_dev"
+557058:aead8a61-7530-4875-9a88-f3b53a1b80a3,Melissa Mason,melissa.mason@yale.edu,Active,8-Jun-17,None,15-Feb-21,3-Feb-22,User,User,"AYA Development,confluence-users,darcy-data-warehouse,jira-software-users"
+5d9c7dec0265ca0db955b542,Michael Palmieri,michael.palmieri@yale.edu,Active,8-Oct-19,None,Never accessed,17-Mar-22,None,User,"IAM read only,confluence-users,sa-windows"
+5b845769f1fb775771888491,Omar Lizola,omar.lizola@yale.edu,Active,28-Aug-18,None,6-Jun-23,5-May-23,User,User,"FTS Quality Assurance,Foundational Technologies,confluence-users,iam,jira-software-users"
+557058:84933c66-61ae-4b71-9af0-2b52a549d154,Matthew Regan,matthew.regan@yale.edu,Active,8-Jun-17,None,1-Jun-23,9-Jul-21,User,User,"confluence-users,jira-software-users"
+604b932903ceda0069c9362d,Michael Albee,michael.albee@yale.edu,Active,5-Nov-21,None,Never accessed,30-Jun-22,None,User,confluence-users
+61aa437e657a050070125696,Nestor Rodriguez Ayala,nestor.rodriguezayala@yale.edu,Active,1-Feb-22,None,8-Jun-23,6-Jun-23,User,User,"Web Technologies,confluence-users,jira-software-users"
+600094533b5e470138485045,Michael Marino,m.marino@yale.edu,Active,14-Jan-21,None,12-Jul-22,22-Mar-22,User,User,"confluence-users,infosec,infosec-jira,jira-software-users"
+557058:c1eda74f-9240-4ff8-b2da-e9a37ea6a4e7,Pilar Abuin,pilar.abuin@yale.edu,Active,8-Jun-17,None,6-Jun-23,9-Jun-23,User,User,"CTL,SIS Data Governance,confluence-users,jira-software-users"
+5c0fe9915e2eee35d79fa729,Rakesh Valapadasu,rakeshkumar.valapadasu@yale.edu,Active,13-Dec-18,None,15-Feb-23,8-May-23,User,User,"confluence-users,data-management,iam,jira-software-users,taldev_admins"
+624c7504f3824d006a5bf6eb,Tyler Hamilton,tyler.hamilton@yale.edu,Active,5-Apr-22,None,Never accessed,7-Jun-23,None,User,confluence-users
+5ac28ccd313b8e56af61ec1e,Michael Vaughn,michael.vaughn@yale.edu,Active,24-Apr-18,None,9-Jun-23,23-May-23,User,User,"Web Technologies,confluence-users,jira-software-users"
+557058:bc976b62-c418-4d53-b331-ecad948e9dd5,Michael Panzo,michael.panzo@yale.edu,Active,8-Jun-17,None,Never accessed,1-Jun-23,None,User,confluence-users
+557058:837a9ada-c817-4553-a455-003e56d57acd,Monica Naron,monica.naron@yale.edu,Active,22-Nov-21,None,8-Jun-23,30-May-23,User,User,"confluence-users,darcy-data-warehouse,jira-software-users"
+61bba601c681240069b72afb,Megan Bradley,megan.bradley@yale.edu,Active,16-Dec-21,None,31-May-23,Never accessed,User,None,"Web Technologies,jira-software-users"
+5f3a499bfdc3f5003f9aeaff,Ralph Zampano,ralph.zampano@yale.edu,Active,17-Aug-20,None,16-Dec-21,Never accessed,User,None,"ITS-Med,jira-software-users"
+621d08a14160640069c55bcc,Polo Reynaga,polo.reynaga@yale.edu,Active,1-Mar-22,None,19-Apr-22,Never accessed,User,None,"Web Technologies,jira-software-users"
+557058:30a43633-d598-4924-a4e4-2d3908e6858f,Paul Gruhn,paul.gruhn@yale.edu,Active,8-Jun-17,None,18-Feb-20,19-Feb-20,User,User,"PMO,bsg-application-services,confluence-users,jira-software-users,taldev_admins"
+62851c1ac217e200698d635e,Nick Taylor,nick.taylor@yale.edu,Active,18-May-22,None,8-Jun-23,27-Jan-23,User,User,"confluence-users,jira-software-users"
+712020:a5a11924-a0dd-4d42-a14e-76022701e951,nicole.leblanc,nicole.leblanc@yale.edu,Active,4-May-23,None,Never accessed,Never accessed,User,User,"confluence-users,jira-software-users,sass-functional"
+712020:ceb83d21-6869-408c-885c-887d11a0a74a,Morgan Moorer,morgan.moorer@yale.edu,Active,19-May-23,None,8-Jun-23,Never accessed,User,None,jira-software-users
+557058:fce486f4-aae2-4380-a335-2f7bf9ee2f47,Philip Mondo,philip.mondo@yale.edu,Active,8-Jun-17,None,Never accessed,8-Jun-23,None,User,"confluence-users,dno"
+625dc63e6cb53d006a682060,Raja Burgul,raja.burgul@yale.edu,Active,19-Apr-22,None,18-Jul-22,19-Apr-22,User,User,"confluence-users,jira-software-users"
+626fe294d7fd480068d7634a,Vanessa-Marie Massoy,vanessa.massoy@vodacom.co.tz,Active,7-Sep-22,None,Never accessed,8-Sep-22,None,User,confluence-users
+557058:5159303f-e6fc-4351-ac13-817a16df6641,Vincent Balbarin,vincent.balbarin@yale.edu,Active,8-Jun-17,None,18-Apr-23,26-Apr-23,User,User,"architecture_design,confluence-users,design_and_qa,jira-software-users"
+62c485bf4d60fcc25795fa6b,Zhongheng Sun,zhongheng.sun@yale.edu,Active,5-Jul-22,Site Admin,8-Jun-23,7-Jun-23,User,"User,Admin","confluence-users,jira-administrators,jira-software-users,sass,site-admins"
+557058:46a9bed7-fec6-423d-ba3d-4267490692bd,Zachary Schwartz,zachary.schwartz@yale.edu,Active,8-Jun-17,None,5-Jun-23,31-May-18,User,User,"confluence-users,fy17-d6-website-migrations,jira-software-users"
+5d7915b8003e040c3e171800,walter.szpakowski,walter.szpakowski@yale.edu,Active,11-Sep-19,None,Never accessed,Never accessed,None,User,"URO,confluence-users"
+557058:e765a169-0939-4b84-9a09-65331f89815f,Uchenna Ogbejesi,uchenna.ogbejesi@yale.edu,Active,13-Jul-17,None,1-Aug-22,22-Jul-22,User,User,"PMO,confluence-users,darcy-data-warehouse,jira-software-users"
+712020:67bb310e-da25-4a96-a390-4029807f1855,Victoria Gorski,victoria.gorski@yale.edu,Active,17-Apr-23,None,Never accessed,1-Jun-23,None,User,confluence-users
+613f5cdc34599600711c207e,Timothy Wright,timothy.e.wright@yale.edu,Active,13-Sep-21,None,31-Jan-23,8-Jun-23,User,User,"confluence-users,jira-software-users"
+5ed646eb88deed0c1805e1b0,Walters Kingoum,walters.kingoum@yale.edu,Active,2-Jun-20,None,30-Jan-23,7-Jun-23,User,User,"confluence-users,jira-software-users,platform-dba"
+712020:35cdf501-fdc1-465b-bcb0-7e78ef3a05cd,Victor Rios Chavez,victor.rioschavez@yale.edu,Active,16-May-23,None,8-Jun-23,Never accessed,User,None,jira-software-users
+5bf3ea46da94df18b4d49924,Ted Hanss,ted.hanss@yale.edu,Active,20-Nov-18,None,Never accessed,21-Apr-20,User,User,"SLT,confluence-users,darcy-data-warehouse,iam,jira-software-users"
+557058:811c1e5f-0ef4-4c6e-8518-075a0fe5f56c,Wendy Battles,wendy.battles@yale.edu,Active,8-Jun-17,None,Never accessed,8-Jun-21,None,User,"confluence-users,darcy-data-warehouse"
+557058:167b8b79-56e3-4989-a6ad-7a0951ab0758,Victor Velt,victor.velt@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+557058:6e7a0ac7-6b72-4a96-9e00-e61b1b5727b1,Timothy Melly,timothy.melly@yale.edu,Active,8-Jun-17,None,Never accessed,6-Aug-19,None,User,confluence-users
+60d5fef1dae56700681a4ece,William Goldbach,william.goldbach@yale.edu,Active,25-Jun-21,None,Never accessed,7-Sep-22,None,User,confluence-users
+557058:27ddd67b-4d3a-4d8f-a5ad-ad4ac3131e27,Venkat Reddy,venkat.reddy@yale.edu,Active,8-Jun-17,None,30-Sep-21,17-Apr-23,User,User,"Salesforce,confluence-users,jira-software-users"
+557058:ea1f9fc1-cc6f-4cb8-93b7-96d2d4bb184a,Tedd Darash,theodore.darash@yale.edu,Active,9-Jun-17,None,8-Jun-23,4-May-23,User,User,"confluence-users,iam,jira-software-users,sass"
+62c4230a5f45f3d3b7b68bc8,Trey Gary,trey.gary@yale.edu,Active,7-Jul-22,None,8-Jun-23,7-Jun-23,User,User,"confluence-users,jira-software-users,sass"
+557058:c17109d3-c45a-4922-9df6-d284e5b40d63,Terry Setzer,terry.setzer@yale.edu,Active,6-Oct-17,None,Never accessed,28-Apr-18,None,User,confluence-users
+712020:6db30d2e-68da-48a4-8d97-99bcdda4dbf8,Yisha Luna,yisha.luna@yale.edu,Active,20-Apr-23,None,6-Jun-23,Never accessed,User,None,jira-software-users
+63f4e703fb3ac4003fa2b95a,Teddy Delwiche,teddy.delwiche@yale.edu,Active,21-Feb-23,None,22-Feb-23,Never accessed,User,None,jira-software-users
+6033e1f8f6ccc00070246266,Uriel Mendoza,uriel.mendoza@yale.edu,Active,22-Feb-21,None,19-Aug-22,1-Aug-22,User,User,"AYA Development,confluence-users,darcy-data-warehouse,jira-software-users"
+557058:9ca0e6c3-56d0-45b2-b714-6b339ced272e,Michael DeSalvatore,michael.desalvatore@yale.edu,Active,8-Jun-17,None,8-Jun-23,9-Jun-23,User,User,"confluence-users,jira-software-users,sass,taldev_admins"
+63402e27f568615bdc812ee0,Victor Harpley,victor.harpley@yale.edu,Active,12-Oct-22,None,10-Nov-22,Never accessed,User,None,jira-software-users
+557058:ff599515-dd20-4e49-a832-67c65503d601,Timothy Sheets,timothy.sheets@yale.edu,Active,8-Jun-17,None,Never accessed,25-Feb-20,None,User,"confluence-users,dno"
+62d6b50a098e73c4e5eeddc5,Terrie Thompson,terrie.thompson@yale.edu,Active,19-Jul-22,Site Admin,6-Jun-23,20-Apr-23,User,"User,Admin","confluence-users,jira-software-users,sass,site-admins"
+5e98760e45f3660c25ed2f99,Todd McKeown,todd.mckeown@yale.edu,Active,16-Apr-20,None,28-Sep-21,6-May-20,User,None,"ITS-Med,Yale_Cloud,jira-software-users"
+557058:6617ca68-842c-4ddf-ba62-19f4f07787ad,Sylvia Perez,sylvia.perez@yale.edu,Active,8-Jun-17,None,9-Feb-23,8-Nov-18,User,User,"Web Technologies,confluence-users,jira-software-users"
+5e2734df832d730ca2009250,Victor Soto,victor.soto@yale.edu,Active,21-Jan-20,None,Never accessed,10-May-23,None,User,"confluence-users,dno"
+557058:43578f72-52a4-4bf4-a161-967616999332,Tzu-Tzu Benigni,tzu-tzu.benigni@yale.edu,Active,8-Jun-17,None,Never accessed,18-Jul-22,None,User,"confluence-users,sass,wd_report_dev"
+557058:c509c892-71e3-4138-bc6f-85dbde80b7b3,Tim Hinckley,timothy.hinckley@yale.edu,Active,8-Jun-17,Site Admin,28-Apr-23,5-Jun-23,User,"User,Admin","confluence-users,jira-administrators,jira-software-users,sass,site-admins"
+557058:8c7e3bb6-064c-4e03-beb0-9edc504f54aa,Thomas Undercuffler,thomas.undercuffler@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+557058:2d998c7f-e327-40b9-b2b2-134bb3966bfd,Thomas Castiello,thomas.castiello@yale.edu,Active,8-Jun-17,None,15-Dec-22,8-Jun-23,User,User,"confluence-users,darcy-data-warehouse,infosec,jira-software-users"
+610aac7c6051c5006af486b6,Venkata Alete,venkata.alete@yale.edu,Active,4-Aug-21,None,10-Dec-21,6-Aug-21,User,None,"AYA Development,darcy-data-warehouse,jira-software-users"
+5e53e36990dfb70c9e61fd0e,Timothy Capezzone,timothy.capezzone@yale.edu,Active,24-Feb-20,None,13-Mar-20,Never accessed,User,None,"HR Innovation & Strategic Support,jira-software-users"
+557058:0a611848-5e6f-45b8-bcd7-1dea3bec425c,Youjun Guo,youjun.guo@yale.edu,Active,8-Jun-17,None,21-Apr-20,18-Dec-20,User,User,"Cultural Heritage,confluence-users,jira-software-users"
+557058:b1c39164-1347-4593-af5e-8be12508f93a,Timothy Garrison,timothy.garrison@yale.edu,Active,2-May-18,None,Never accessed,9-Jun-22,None,User,"AYA Development,confluence-users,darcy-data-warehouse"
+5a3429f2d96dcc384266cddf,Vijayakumar Kuttin,vijay.kuttin@yale.edu,Active,8-Jan-18,None,Never accessed,8-Jun-23,None,User,"bsg-application-services,confluence-users"
+6205406fff9289006eecbf40,Tyler Kent,tkent@leepfrog.com,Active,10-Feb-22,None,28-Mar-23,Never accessed,User,None,jira-software-users
+5ba258690cfa462eba272753,Tubyez Cropper,tubyez.cropper@yale.edu,Active,19-Sep-18,None,21-Sep-18,Never accessed,User,None,"Web Technologies Clients,jira-software-users"
+557058:8b4cd45b-dda4-42c6-ab9d-9031f4ff8a98,Vincent Massaro,vincent.massaro@yale.edu,Active,8-Jun-17,Site Admin,6-Jun-23,12-May-23,User,"User,Admin","Web Technologies,confluence-users,jira-software-users,site-admins"
+557058:b344459f-4076-49c2-b042-ff59f120640b,Xinjian Guo,xinjian.guo@yale.edu,Active,8-Jun-17,None,Never accessed,13-Apr-23,None,User,"Cultural Heritage,confluence-users"
+557058:26ecae21-def5-456c-825d-8c56b306c3fc,William Welch,william.welch@yale.edu,Active,8-Jun-17,None,Never accessed,8-Jun-23,None,User,"confluence-users,iam,taldev_admins"
+62f501cfa41ecbd0ba1a5863,Virginia Donovan,virginia.donovan@yale.edu,Active,11-Aug-22,None,Never accessed,8-Jun-23,None,User,"confluence-users,platform-dba"
+557058:c03c712c-24f5-4ca6-bdd2-f94c141c40c6,Valdemar Queiroga,valdemar.queiroga@yale.edu,Active,8-Jun-17,None,Never accessed,16-Nov-19,None,User,confluence-users
+557058:2bdde04f-48f4-4d43-b591-47825d6f4ccd,timothy.pavlis@yale.edu,timothy.pavlis@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+557058:fb549300-9915-4fe4-9219-4814fc8b4f2b,Tenyo Grozev,tenyo.grozev@yale.edu,Active,8-Jun-17,None,Never accessed,17-Aug-22,None,User,"confluence-users,sa-linux"
+557058:81b7d476-cb1d-4d5c-ac63-d97b1fca2dc1,Vincent LaBonia,vincent.labonia@yale.edu,Active,8-Jun-17,None,1-Nov-21,2-Jun-23,User,User,"confluence-users,jira-software-users,platform-dba"
+601da1fba41ea5006abc83ce,Thomas Cunningham,thomas.cunningham@yale.edu,Active,5-Feb-21,None,16-Mar-21,16-Mar-21,User,User,"confluence-users,infosec,infosec-jira,jira-software-users"
+620abd02bba9ca0070c9b8f1,Tristen Lawrence,tristen.lawrence@yale.edu,Active,14-Feb-22,None,28-Jul-22,7-Jun-23,User,User,"Yale_Cloud,confluence-users,jira-software-users"
+5e53e36a5a495e0c91a8cbf2,Tanya Birmingham,tanya.birmingham@yale.edu,Active,24-Feb-20,None,24-Feb-20,Never accessed,None,None,HR Innovation & Strategic Support
+557058:20273aec-6d8e-45e2-bcad-031c6196c0d2,Wei Wang,wei.w.wang@yale.edu,Active,8-Jun-17,None,Never accessed,3-Jun-23,None,User,"confluence-users,platform-dba,taldev_admins"
+712020:e3156ba0-0ade-40ec-ac49-3dfed8202092,Winson Weng,winson.weng@yale.edu,Active,5-May-23,None,8-Jun-23,7-Jun-23,User,User,"SASS Summer Interns,confluence-users,jira-software-users"
+5e53e36c7ece1a0c999334ab,Whitney-Ann Bradshaw,whitney.bradshaw@yale.edu,Active,24-Feb-20,None,18-Jun-20,Never accessed,User,None,"HR Innovation & Strategic Support,jira-software-users"
+5c195aaf36647b5b9100f190,Todd Austin,todd.austin@yale.edu,Active,20-Dec-18,None,Never accessed,11-Aug-21,None,User,"confluence-users,dno"
+5e2181aa4a10020ca9b15b93,william.summers,william.summers@yale.edu,Active,17-Jan-20,None,Never accessed,Never accessed,None,User,confluence-users
+557058:2766b092-bbcf-454c-9ec2-eae2d21525a1,Vijayshree Erodula,vijayshree.murty@yale.edu,Active,8-Jun-17,Site Admin,5-Jun-23,25-May-23,User,"User,Admin","confluence-users,jira-administrators,jira-software-users,sass,site-admins,taldev_admins"
+63b5e0786ad11358a09a19ab,Thomas Nail,thomas.nail@yale.edu,Active,4-Jan-23,None,Never accessed,7-Jun-23,None,User,"confluence-users,sa-linux"
+557058:f6acc65c-657b-44a8-8103-2658ea1cc34b,Vidhya Narayanan,vidhya.narayanan@yale.edu,Active,8-Jun-17,None,31-May-23,31-May-23,User,User,"AYA Development,confluence-users,darcy-data-warehouse,jira-software-users"
+557058:542f2c32-9541-44de-87e0-f66f5adf2530,Taber Lightfoot,taber.lightfoot@yale.edu,Active,8-Jun-17,None,2-Jun-23,15-Dec-21,User,User,"Web Technologies,confluence-users,jira-software-users"
+60ccc10a00bdd9006853eeb9,Webtech Integration,webtech.integration@yale.edu,Active,18-Jun-21,None,22-Oct-21,Never accessed,User,None,"Service Accounts,Web Technologies,jira-software-users"
+557058:7bfa42a8-7622-433b-bc84-ed8fcc81b14f,Elizabeth Rolfe,elizabeth.rolfe@yale.edu,Active,8-Jun-17,None,Never accessed,13-Nov-19,None,User,confluence-users
+5d7fca25716a7d0c36d404e2,Christina Lago,christina.lago@yale.edu,Active,16-Sep-19,None,Never accessed,Never accessed,None,User,confluence-users
+60523907695c39007068f6e2,Fernando Reyna,fernando.reyna@yale.edu,Active,17-Mar-21,None,4-Apr-23,11-May-23,User,User,"confluence-users,jira-software-users,sass,sass-consultants"
+557058:01aa81e1-3ea4-4a1a-8de7-78c617875fa1,David Preschel,david.preschel@yale.edu,Active,8-Jun-17,None,8-Jun-23,9-Jun-23,User,User,"confluence-users,jira-software-users,sass,taldev_admins"
+557058:28addb23-1660-4af4-970c-f3dc1f87d0e9,Dana Lipnickas,dana.lipnickas@yale.edu,Active,8-Jun-17,None,7-Jan-21,20-May-19,User,User,"Web Technologies,confluence-users,jira-software-users"
+5c9485371ef4a12c6afe39cc,John Eberhart,eberhart@yale.edu,Active,23-Jan-20,None,Never accessed,31-Jul-20,None,User,confluence-users
+5f4953a2fcaf93003b18e7bf,Edward Sokolnicki,edward.sokolnicki@yale.edu,Active,28-Aug-20,None,Never accessed,1-Sep-20,None,User,confluence-users
+615b7199d9820f0070a5e06d,Fernando Jimenez,fernando.jimenez@yale.edu,Active,7-Oct-21,None,13-Oct-21,Never accessed,User,None,"Web Technologies,jira-software-users"
+557058:7d16ab5f-83e1-46a9-98b9-ece3e22954a8,Christine Viele,christine.viele@yale.edu,Active,8-Jun-17,None,26-Jan-21,3-Nov-21,User,User,"bsg-application-services,confluence-users,darcy-data-warehouse,jira-software-users"
+6310b98462fe1e6eac6c78d3,Christopher Brennan,christopher.brennan@yale.edu,Active,1-Sep-22,None,Never accessed,20-Oct-22,None,User,confluence-users
+557058:fb98d758-40e6-4494-9acd-838626c9e657,Edward Rivera,edward.rivera@yale.edu,Active,8-Jun-17,None,Never accessed,9-Jun-23,None,User,"IAM read only,confluence-users,sa-windows"
+59f775120ed52d6a22b06960,Daria Vander Veer,daria.vanderveer@yale.edu,Active,30-Oct-17,None,27-May-23,3-Apr-19,User,User,"SIS Working Group,URO,confluence-users,jira-software-users"
+557058:6d9f988c-1eb6-4e0c-a7c3-2e70763e2257,Dan Franko,dan.franko@yale.edu,Active,8-Jun-17,None,12-Nov-19,2-Jul-22,User,User,"confluence-users,jira-software-users"
+5bb233342d188519e0dbd4b5,Cornelius Hughes,cornelius.hughes@yale.edu,Active,4-Oct-18,None,6-Jun-23,30-May-23,User,User,"Academic Technologies,classes*v2,confluence-users,jira-software-users,sass"
+61ef026f138863006a91686b,Elsa Guajardo,elsa.guajardo@yale.edu,Active,24-Jan-22,None,2-Feb-23,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+62aca97ad0132d006882bfd0,Ernesto Valderrama,ernesto.valderrama@yale.edu,Active,29-Jun-22,None,31-May-23,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+5c8bfe4e88f9ec6ae0afccb9,Erin Gustafson,erin.gustafson@yale.edu,Active,4-May-23,None,4-May-23,Never accessed,User,User,"confluence-users,jira-software-users,sass-functional"
+557058:b1c4d37f-5841-40f9-a48e-4c418f9da5a9,Elvin Torres,elvin.torres@yale.edu,Active,8-Jun-17,None,Never accessed,1-Jun-23,None,User,"Endpoint,IAM read only,confluence-users,sa-windows"
+6166dceca707100069189671,Chris Begley,christopher.begley@yale.edu,Active,28-Oct-21,None,8-Jun-23,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+5ceff8db1552030f1e3a52d8,Ed Piniazek,edward.piniazek@yale.edu,Active,30-May-19,None,20-Dec-21,23-Feb-22,User,User,"confluence-users,darcy-data-warehouse,jira-software-users"
+5d7a3642006bcf0d272dae0a,Daniel Miller,dan.miller@yale.edu,Active,23-Sep-19,None,6-Jun-23,3-Mar-23,User,User,"Web Technologies,confluence-users,jira-software-users"
+557058:f074fc49-022a-4b53-9d41-302978c32bce,Christine Torres,christine.torres@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+6168ab577a6be400718fe583,Edward Foley,ed.foley@yale.edu,Active,18-May-23,None,8-Jun-23,Never accessed,User,User,"confluence-users,jira-software-users"
+5e53e38896f7d50ca054231e,Denval Lawrence,denval.lawrence@yale.edu,Active,24-Feb-20,None,24-Feb-20,Never accessed,None,None,HR Innovation & Strategic Support
+5a906afd6a77c4434f64ef37,Cody Roy,cody.roy@yale.edu,Active,1-Mar-18,None,13-Aug-19,6-Jun-23,None,User,"confluence-users,public_safety"
+607050b196e8d60068f19e7d,Dima Kruk,dima.kruk@yale.edu,Active,21-Mar-22,None,3-May-22,19-Apr-21,User,User,"confluence-users,infosec-jira,jira-software-users"
+62b0958533a882e2be487ad6,Fábio Godinho,fabio.godinho@outsystems.com,Active,14-Oct-22,None,14-Mar-23,Never accessed,User,None,jira-software-users
+6167b152289a54006a9f7159,David Blackmon,david.blackmon@yale.edu,Active,23-May-22,None,25-May-23,5-Dec-22,User,User,"SIS Working Group,confluence-users,jira-software-users,sass-functional"
+557058:52c13aa6-d7a8-4bd4-8249-b9b6d244eb14,Dean Baruffi,dean.baruffi@yale.edu,Active,8-Jun-17,None,Never accessed,5-Jun-23,None,User,"confluence-users,dno"
+62a88c51a80881006f61c70d,Emily Korzeniewski,emily.korzeniewski@yale.edu,Active,9-Dec-22,None,5-Jun-23,Never accessed,User,None,jira-software-users
+604b93c62b3f9a006a63efc5,Eric Hebert,eric.hebert@yale.edu,Active,8-Apr-21,None,11-May-22,23-Mar-23,User,User,"confluence-users,jira-software-users"
+557058:e17e111b-88d0-4389-a022-aecf157f2fcd,Fan Li,fan.li@yale.edu,Active,8-Jun-17,None,22-Aug-22,12-Feb-23,User,User,"confluence-users,jira-software-users,sass,taldev_admins"
+6238b636ee1b5a0070278d27,Carolyn Flinchbaugh,carolyn.flinchbaugh@yale.edu,Active,21-Mar-22,None,31-Dec-22,30-Dec-22,User,User,"confluence-users,jira-software-users,sass"
+557058:8f29311b-5367-4687-9f04-66ef213696ce,DJ Martin,daniel.r.martin@yale.edu,Active,8-Jun-17,None,Never accessed,19-May-22,None,User,confluence-users
+557058:29c812bb-c405-4ead-8a92-c87625465186,Dave Logie,david.logie@yale.edu,Active,17-Aug-17,None,Never accessed,25-May-18,None,User,"Yale_Cloud,confluence-users"
+5dd2dafcb63a210fb4b69bcf,David Flores,david.flores@yale.edu,Active,18-Nov-19,None,22-Nov-22,14-Sep-22,User,User,"FTS Quality Assurance,confluence-users,darcy-data-warehouse,jira-software-users"
+5a53d4999738751fb351923e,Eric Wazocha,eric.wazocha@yale.edu,Active,8-Jan-18,None,Never accessed,1-Jun-23,None,User,"IAM read only,confluence-users,sa-windows"
+5e53e36e90dfb70c9e61fd0f,Elizabeth Anderson,elizabeth.anderson@yale.edu,Active,24-Feb-20,None,2-Mar-20,Never accessed,User,None,"HR Innovation & Strategic Support,jira-software-users"
+6125191a0952180069dabfa7,Doris Fana,doris.fana@yale.edu,Active,17-Sep-21,None,3-Mar-22,3-Mar-22,User,None,"AYA Development,jira-software-users"
+557058:ce5104ab-7f55-46cb-9427-d8e07ca6d2f0,elizabeth.roy@yale.edu,elizabeth.roy@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+5b2027b7d8714649c69c6157,Devi Persaud,devi.persaud@yale.edu,Active,18-Mar-20,None,13-May-20,Never accessed,None,None,FTS Quality Assurance
+629e5c80451c00006964aaf9,Eva Wallis,eva.wallis@yale.edu,Active,6-Jun-22,None,12-Aug-22,8-Jun-22,User,None,"SASS Summer Interns,jira-software-users"
+64076b5bf00d095406f4fa66,Ellen Jetto,ellen.jetto@yale.edu,Active,7-Mar-23,None,2-Jun-23,17-May-23,User,User,"confluence-users,jira-software-users,sass"
+6168a786c5388b006911313f,Donald Russo,donald.russo@yale.edu,Active,5-May-23,None,Never accessed,Never accessed,User,User,"confluence-users,jira-software-users,sass-functional"
+5a6aeafa2d2e3726e4277f33,Dominic Machado,dominic.machado@yale.edu,Active,26-Jan-18,None,9-Jun-23,8-Jun-23,User,User,"AYA Development,confluence-users,darcy-data-warehouse,jira-software-users"
+557058:e8ca3e29-3605-4273-b916-c11dbc4c2099,David Swanson,david.swanson@yale.edu,Active,8-Jun-17,None,Never accessed,8-Aug-22,None,User,"confluence-users,iam,platform-dba,taldev_admins"
+557058:2eff8dac-7168-493c-9a74-05828004685c,Eric James,eric.james@yale.edu,Active,8-Jun-17,None,Never accessed,31-May-23,None,User,"confluence-users,library_it"
+557058:4688f60b-1280-4e32-9a1d-c69873072ad6,Dave DeMichele,dave.demichele@yale.edu,Active,8-Jun-17,None,10-Jun-20,Never accessed,User,User,"confluence-users,jira-software-users"
+557058:bc866f40-b866-4d20-b2f6-59b952779096,Dan Hofstatter,daniel.hofstatter@yale.edu,Active,8-Jun-17,Site Admin,7-Jun-23,5-Jun-23,User,"User,Admin","confluence-users,jira-software-users,sass,sfas,site-admins"
+557058:157bb0b3-d860-4fce-aed9-ac46045c2f4e,David Boyd,david.boyd@yale.edu,Active,8-Jun-17,None,Never accessed,14-Jun-22,None,User,confluence-users
+557058:413ecbc6-8bd9-4ad4-b79a-2a0658fc6f6d,Craig Henry,craig.henry@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+557058:7204eea9-1788-4ec4-afa9-871d3538acd1,Erik Klingaman,erik.klingaman@yale.edu,Active,8-Jun-17,None,Never accessed,11-Feb-22,None,User,"IAM read only,confluence-users,sa-windows"
+557058:e9f3acef-f6b3-4e9a-91ab-613b45504fed,Daniel Cress,daniel.cress@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+557058:4e4b85a4-bf34-4155-b3ab-504d40b40ea4,Darrell Cook,darrell.cook@yale.edu,Active,8-Jun-17,None,14-Oct-21,12-Jan-23,User,User,"bsg-application-services,confluence-users,darcy-data-warehouse,jira-software-users,taldev_admins"
+5ee57041a1f55d0ab4acedc1,Farid Abdul,f.abdul@yale.edu,Active,22-Sep-21,None,7-Jun-23,16-Nov-22,User,None,"FTS Quality Assurance,jira-software-users"
+59f774ec31c86658b4469daa,Claudia Schiavone,claudia.schiavone@yale.edu,Active,30-Oct-17,None,5-Jun-23,2-Jun-23,User,User,"URO,confluence-users,jira-software-users"
+5fd8da041051d10075bd302c,Erika Vargas,erika.vargas@yale.edu,Active,15-Dec-20,None,27-Sep-21,Never accessed,User,None,"FTS Quality Assurance,jira-software-users,sass-consultants"
+5c9a43bb2ecbb209e81f80ad,De Vaughn Long,devaughn.long@yale.edu,Active,26-Mar-19,None,7-Feb-23,Never accessed,User,User,"confluence-users,jira-software-users,sass"
+61679517bfa2c1006b3df822,Cindy Burghardt,cindy.burghardt@yale.edu,Active,4-May-23,None,19-May-23,12-May-23,User,User,"confluence-users,jira-software-users,sass-functional"
+5ee782b9b5ccf20ab3866cc5,Emily Klingebiel,emily.klingebiel@yale.edu,Active,15-Jun-20,None,15-Aug-22,7-Jun-23,User,User,"confluence-users,infosec,jira-software-users"
+557058:ed95824f-2be1-46cd-bfe4-2145a1f14d52,Derek Webster,derek.webster@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+60abfe81b4624d006900ce4f,David Fusfeld,david.fusfeld@yale.edu,Active,24-May-21,None,14-Feb-23,7-Jun-23,User,User,"confluence-users,jira-software-users"
+641d9b2ab05b4e3e7dab0dfb,David Blankenship,david.blankenship@yale.edu,Active,24-Mar-23,None,8-Jun-23,8-May-23,User,User,"DA,confluence-users,jira-software-users"
+5efa5bd378797a0bb7ebd8ba,Elizabeth Endri,elizabeth.endri@yale.edu,Active,29-Jun-20,None,4-May-22,6-May-22,User,User,"confluence-users,jira-software-users"
+557058:18a0522c-ee7b-423b-af95-24697ece754d,Elizabeth Burnell,elizabeth.burnell@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,"confluence-users,wd_report_dev"
+5df260a673b0bd0e4d833ae7,Darin Zapf,dzapf@leepfrog.com,Active,21-Sep-21,None,8-Jun-23,Never accessed,User,None,jira-software-users
+557058:006308f5-cf08-47e5-afe7-2f4bd82b534c,Deanna Burns,deanna.burns@yale.edu,Active,8-Jun-17,None,23-Jul-20,20-Sep-19,User,User,"confluence-users,darcy-data-warehouse,jira-software-users"
+63b489432c70aae1e6fb0020,Daniel Mcclanahan,daniel.mcclanahan@yale.edu,Active,3-Jan-23,None,8-Jun-23,8-Jun-23,User,User,"confluence-users,jira-software-users,sass"
+641cfa9d5534b0bf744212e8,Devron West,devron.west@yale.edu,Active,27-Mar-23,None,28-Mar-23,7-Jun-23,User,User,"confluence-users,infosec,jira-software-users"
+557058:6384be1e-7720-4b29-afc4-37b398f932f1,Diane Rodrigues,diane.rodrigues@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+557058:0f9b7ffa-c0df-4fbe-85d1-e2fb8329b4e5,Christopher Abbott,christopher.abbott@yale.edu,Active,8-Jun-17,None,Never accessed,29-Jan-20,None,User,"confluence-users,iam"
+5d82a16f9581710c3032a206,Craig Janecek,craig.janecek@yale.edu,Active,8-Aug-22,None,12-Aug-22,Never accessed,User,None,jira-software-users
+557058:81464a69-1ad1-4d68-b834-4035fd659989,Darice Corey,darice.corey@yale.edu,Active,8-Jun-17,None,Never accessed,14-May-17,None,User,confluence-users
+557058:27d59c9c-4d8b-4beb-bdef-866123fd0c53,Ernest Marinko,ernie.marinko@yale.edu,Active,8-Jun-17,None,Never accessed,4-Jun-23,None,User,"Endpoint,IAM read only,confluence-users,sa-windows"
+557058:8ff6d758-bdb2-4274-a5b3-f0ea6f72982a,Christine Mongillo,christine.mongillo@yale.edu,Active,8-Jun-17,None,8-Jun-23,6-Jun-23,User,User,"confluence-users,fy17-d6-website-migrations,jira-software-users"
+557058:2a271fa9-8929-4c6e-947b-5a4adfc81bd7,Donal Cheung,donal.cheung@yale.edu,Active,8-Jun-17,None,28-Jan-22,26-Jan-22,User,User,"confluence-users,jira-administrators,jira-software-users"
+60dde87e3136170077c74d83,Colby Laracuente,colby.laracuente@yale.edu,Active,1-Jul-21,None,25-May-23,9-Jun-23,User,User,"confluence-users,jira-software-users"
+557058:a969cfde-fc97-4879-909c-22a5ee9732f6,Dale Hendrickson,dale.hendrickson@yale.edu,Active,29-Jun-20,None,Never accessed,11-Dec-20,None,User,"Enterprise Architecture,confluence-users"
+5a1f08e36877a040f07161b4,Deepa Thomas,deepa.thomas@yale.edu,Active,29-Nov-17,None,9-Jun-23,31-May-23,User,User,"confluence-users,jira-software-users,sass"
+557058:8dae83b6-b25c-4500-a3cf-9100787519f2,Edward Morcaldi,edward.morcaldi@yale.edu,Active,1-Feb-22,None,7-Jun-23,16-May-23,User,User,"Web Technologies,confluence-users,jira-software-users"
+617adfe8e79ff6006fc5a355,Durga Sai Teja Pamarthi,durgasaiteja.pamarthi@yale.edu,Active,28-Oct-21,None,Never accessed,6-Jun-23,None,User,"confluence-users,sa-linux"
+557058:a8d429da-881d-4713-9cd6-40611b3665a3,David Highsmith,david.highsmith@yale.edu,Active,8-Jun-17,None,Never accessed,7-Jun-23,None,User,"confluence-users,dno"
+5af1fc2fde21d42c227fe899,Dan Massameno,dan.massameno@yale.edu,Active,9-May-18,None,Never accessed,2-Jun-23,None,User,"Yale_Cloud,confluence-users,design_and_qa,dno"
+712020:2b6491d1-ad0e-4f56-a830-989f632774de,Dipendra Jyoti,dipendra.jyoti@yale.edu,Active,27-Apr-23,None,8-Jun-23,Never accessed,User,User,"confluence-users,jira-software-users"
+62a349f71be00a0068af6319,Enrique Perez,enrique.perez@yale.edu,Active,13-Jun-22,None,9-Jun-23,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+613f61a3ff23ba007157b0e4,Daniel Tinari,daniel.tinari@yale.edu,Active,13-Sep-21,None,Never accessed,12-May-23,None,User,"confluence-users,iam"
+5e66a1befb668c0ce7adca01,Francisco Porrata,francisco.porrata@yale.edu,Active,9-Mar-20,None,14-Oct-22,9-Jun-23,User,User,"confluence-users,infosec-jira,jira-software-users"
+5a561fed15a3cc0521fa56ed,Erin Mahoney,e.mahoney@yale.edu,Active,22-Jan-18,None,Never accessed,1-Jun-23,None,User,"confluence-users,data-management"
+616d76eb327da4006997f2f2,Fis Jira,fj95@yale.edu,Active,18-Oct-21,None,25-Oct-21,Never accessed,User,None,"Facilities,jira-software-users"
+557058:5c06b959-81bb-4754-8c7f-78893647adeb,David Hazall-Farrell,david.hazall-farrell@yale.edu,Active,8-Jun-17,None,Never accessed,22-Mar-23,None,User,"HR Innovation & Strategic Support,bsg-application-services,confluence-users,taldev_admins"
+61019247a539cb00683d0c1e,Deborah Joseph,deborah.joseph@yale.edu,Active,28-Jul-21,None,2-Jun-23,29-Mar-23,User,User,"confluence-users,jira-software-users,sass,sass-consultants"
+712020:44810e99-0e4f-4802-bd30-2d70ec2e6057,Douglas Aldridge,douglas.aldridge@yale.edu,Active,22-May-23,None,7-Jun-23,7-Jun-23,User,User,"confluence-users,jira-software-users,sass-consultants"
+5cbf49e89e792a0e3faad3b5,Clare Ankawi,clare.ankawi@yale.edu,Active,23-Apr-19,None,8-Jun-23,23-May-23,User,User,"CTL,confluence-users,jira-software-users"
+557058:3d0cf069-63ad-408b-abf6-ef3711afd830,Claudia Villano,claudia.villano@yale.edu,Active,8-Jun-17,None,Never accessed,1-Mar-19,None,User,confluence-users
+557058:37ec3eb6-cdce-47fe-bb43-a7b329f9c5f8,David Hirsch,david.hirsch@yale.edu,Active,8-Jun-17,None,20-Jan-22,9-May-22,User,User,"CTL,confluence-users,jira-software-users"
+5c419f2c75b0e95216ea30f9,Eric Alford,eric.alford@yale.edu,Active,18-Jan-19,None,Never accessed,14-Feb-23,None,User,"confluence-users,dno"
+5f5a6c5410d187006f3c976a,Eduardo Calderon,eduardo.calderon@yale.edu,Active,10-Sep-20,None,6-Jun-23,6-Jun-23,User,User,"confluence-users,darcy-data-warehouse,jira-software-users"
+61f81c4b30f6b8006aa759dc,Devon Biancarelli-Milano,devon.biancarelli-milano@yale.edu,Active,31-Jan-22,None,Never accessed,1-Mar-23,None,User,"confluence-users,dno"
+629df8c64e1a640070c25a3f,Francisco Garcia,francisco.garcia@yale.edu,Active,6-Jun-22,None,13-Jun-22,4-May-23,User,User,"confluence-users,jira-software-users,platform-dba"
+5ede6affa1a84e0ab43a946f,Elena Masotta,elena.masotta@yale.edu,Active,8-Jun-20,None,11-Jan-23,18-May-23,User,User,"confluence-users,jira-software-users"
+557058:057b6263-79a6-4440-921f-81866e61331e,Greg Mackinnon,gregory.mackinnon@yale.edu,Active,8-Jun-17,None,5-Apr-23,8-Jun-23,User,User,"confluence-users,infosec-jira,jira-software-users"
+5f91a33af162650070d43db0,Gouthami Satyananda Naik,gouthami.satyanandanaik@yale.edu,Active,22-Oct-20,None,Never accessed,23-May-22,None,User,"confluence-users,sa-linux"
+557058:f2e94839-6040-4bc2-986d-65a127715d34,Jill Bassett,jill.bassett@yale.edu,Active,20-Jun-17,None,25-May-23,22-May-23,User,User,"confluence-users,darcy-data-warehouse,jira-software-users,sass"
+60364d108ff09800716505d2,Jaime Perez,jaime.perez@yale.edu,Active,24-Feb-21,None,5-Nov-21,29-Mar-21,User,None,"FTS Quality Assurance,jira-software-users"
+61e71b29f0ed0400687ecd2b,Gavin O'Connor,gavin.oconnor@yale.edu,Active,18-Jan-22,None,8-Jun-23,25-Apr-23,User,User,"confluence-users,jira-software-users"
+5c9b012baa4d3768fa74e277,Harshal Dixit,harshal.dixit@yale.edu,Active,27-Mar-19,None,22-Jan-20,6-Jun-23,User,User,"confluence-users,design_and_qa,jira-software-users,platform-dba"
+557058:ac94993c-ffc3-4917-be4d-bc3964b3fc8e,Jim Hunter,james.hunter@yale.edu,Active,8-Jun-17,None,27-Sep-22,8-Jun-23,User,User,"confluence-users,infosec,infosec-jira,jira-software-users"
+6406211e7655a3223a23c839,Gildardo Enriquez,gildardo.enriquez@yale.edu,Active,6-Mar-23,None,6-Mar-23,7-Jun-23,User,User,"confluence-users,jira-software-users,platform-dba,sass"
+557058:5a5ae0d1-8a17-4806-bf4c-0bba4f79cc74,Janna Ellis,janna.ellis@yale.edu,Active,8-Jun-17,None,Never accessed,11-Jun-20,None,User,confluence-users
+557058:5323e619-f525-4004-9eeb-2b4c64c1307c,Ismail Orabi,ismail.orabi@yale.edu,Active,8-Jun-17,Site Admin,8-Jun-23,8-Jun-23,User,"User,Admin","confluence-users,jira-software-users,sass,site-admins,taldev_admins"
+625b102d5d1e700069b08ce9,Glory Olusi,glory.olusi@yale.edu,Active,18-Apr-22,None,7-Feb-23,Never accessed,User,User,"confluence-users,jira-software-users"
+62290ee315521d00726e6618,John Chung,john.chung@yale.edu,Active,9-Mar-22,None,29-Apr-22,Never accessed,User,User,"confluence-users,jira-software-users,sass"
+60428ff4c668f4006a2f8ff3,John Dahlstrom,john.dahlstrom@yale.edu,Active,9-Mar-21,None,Never accessed,9-Mar-21,None,User,confluence-users
+557058:aabb4990-2d8b-4851-8bed-0fb9c69efc2a,James Hackett,jim.hackett@yale.edu,Active,8-Jun-17,None,Never accessed,10-Mar-23,None,User,"confluence-users,public_safety"
+5ece5f79730ec90c199082d7,Greg Buckless,greg.buckless@yale.edu,Active,27-May-20,None,1-Jun-20,Never accessed,None,User,confluence-users
+557058:6b38229e-f144-4227-9d81-231c76ac1af8,Hadar Call,hadar.call@yale.edu,Active,8-Jun-17,None,5-Jun-23,16-Nov-22,User,User,"AYA Development,confluence-users,darcy-data-warehouse,jira-software-users"
+557058:423b6dea-59e3-4f39-a7b8-b31e4a729b09,John Ferraiuolo,john.ferraiuolo@yale.edu,Active,8-Jun-17,Site Admin,8-Jun-23,8-Jun-23,User,"User,Admin","administrators,confluence-administrators,confluence-users,jira-administrators,jira-software-users,sass,site-admins,taldev_admins"
+61f9a4d530f6b8006aa80e8b,Ireti Ogunsanya,ireti.ogunsanya@yale.edu,Active,1-Feb-22,None,31-Oct-22,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+5fc65a8ad670b8006efe4008,Jesus Valero,jesus.valero@yale.edu,Active,1-Dec-20,None,17-Sep-21,30-Jul-21,User,None,"FTS Quality Assurance,jira-software-users"
+557058:d1fbdfc6-1a59-4bc4-a140-3af1df0dce13,Jay Waller,jay.waller@yale.edu,Active,8-Jun-17,None,8-Jun-23,7-Jun-23,User,User,"confluence-users,jira-software-users,sass"
+6167224999b4b8006a2c1bf5,Grace Jones,grace.jones@yale.edu,Active,13-Oct-21,None,29-Oct-21,Never accessed,User,None,"PMO,jira-software-users"
+557058:1a276b51-4539-42f1-b02e-635434c91d35,Franz Hartl,franz.hartl@yale.edu,Active,8-Jun-17,None,6-Jun-23,22-Jun-22,User,User,"Web Technologies,confluence-users,fy17-d6-website-migrations,jira-software-users"
+5af5d169a73f7a5913463995,Glenn Hasiotis,glenn.hasiotis@yale.edu,Active,4-Sep-18,None,Never accessed,7-Jun-23,None,User,confluence-users
+634dba9aa04e906250c528c1,Igor Shatalov,igor.shatalov@yale.edu,Active,1-Nov-22,None,5-Jun-23,9-Nov-22,User,User,"confluence-users,jira-software-users"
+557058:e219c413-8245-4762-96a4-c8371c2a90f2,James Blau,jim.blau@yale.edu,Active,8-Jun-17,None,Never accessed,4-Mar-21,None,User,"Endpoint,IAM read only,confluence-users"
+611ab80c78fb330077077b13,John Gasper,john.gasper@yale.edu,Active,16-Aug-21,None,Never accessed,7-Jun-23,None,User,"confluence-users,iam"
+557058:0f3a482e-33b0-48f0-8012-5e46e5728dcc,Heather Abati,heather.abati@yale.edu,Active,8-Jun-17,None,1-Jul-17,5-Dec-22,User,User,"SIS Working Group,confluence-users,jira-software-users"
+61e7269f54627a007064c774,Hannah Endri,hannah.endri@yale.edu,Active,18-Jan-22,None,8-Jun-23,12-Apr-23,User,User,"confluence-users,darcy-data-warehouse,jira-software-users"
+5d309e98917eeb0c13b4ff01,Jorge Morales,jorge.morales@yale.edu,Active,18-Jul-19,None,18-May-22,Never accessed,User,User,"FTS Quality Assurance,confluence-users,jira-software-users"
+557058:a0dd25b5-f2c5-48d2-95b6-0b7d0d8c2481,James Farrell,james.farrell@yale.edu,Active,8-Jun-17,None,9-Jun-23,7-Jun-23,User,User,"AYA Development,confluence-users,darcy-data-warehouse,design_and_qa,jira-software-users"
+639cd7853c9bcd3639781b5a,Hema Bakthavatchalam,hema.bakthavatchalam@yale.edu,Active,16-Dec-22,None,16-Dec-22,Never accessed,User,None,jira-software-users
+5accb41d780b8e2b9bc0b5d1,Joanne Luce,joanne.luce@yale.edu,Active,18-Mar-20,None,31-Mar-20,29-Apr-20,User,User,"FTS Quality Assurance,confluence-users,jira-software-users"
+557058:3923e18e-d436-4b3e-9b89-20de62ca046f,John Pagliuca,john.pagliuca@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+5bb2240f2d188519e0dbd44e,Jaime Tryon,jaime.tryon@yale.edu,Active,1-Oct-18,None,9-Jun-23,8-Jun-23,User,User,"SIS Data Governance,confluence-users,jira-software-users,sass"
+557058:0df96948-208c-4727-b2ea-3a53e9cb64a6,Hermina Mazeiko,hermina.mazeiko@yale.edu,Active,8-Jun-17,None,Never accessed,26-Apr-18,None,User,confluence-users
+613f78d41238e80071151675,Gregory Clark,g.clark@yale.edu,Active,14-Oct-21,None,29-Oct-21,6-May-22,User,User,"confluence-users,jira-software-users"
+5b914ae4a9fd6d2c834b411d,Jessica Flower,jessica.flower@yale.edu,Active,10-Sep-18,None,Never accessed,18-May-23,None,User,"confluence-users,infosec"
+614b696b7a3c880067472a66,Gabriel Sanchez,gabriel.sanchez@yale.edu,Active,22-Sep-21,None,11-Jan-22,Never accessed,User,None,"jira-software-users,sass-consultants"
+557058:538dce36-8deb-4640-a5a6-8f2979e2fd9a,John Dell,john.dell@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+5cd1565e3b428d0dcd7c1dcb,Jason Ignatius,jason.ignatius@yale.edu,Active,7-May-19,None,Never accessed,6-Jun-23,None,User,"Yale_Cloud,confluence-users,sa-linux"
+5f2ab5ee170ffc002304dcef,James Mather,james.mather@yale.edu,Active,5-Aug-20,None,Never accessed,Never accessed,None,None,ITS-Med
+712020:baac9582-3523-49a8-b06d-7c31b69fe43b,Gerardo Martinez,gerardo.martinez@yale.edu,Active,3-May-23,None,6-Jun-23,Never accessed,User,None,jira-software-users
+5cc3239debb0bc11d71207fe,Haibei Zhang,haibei.zhang@yale.edu,Active,26-Apr-19,None,18-Dec-19,7-Jun-23,User,User,"confluence-users,infosec-jira,jira-software-users"
+62bb03ccf53d916738681c83,George Makris,george.makris@yale.edu,Active,11-Jul-22,None,Never accessed,24-May-23,None,User,confluence-users
+5fe1fca544065f013f1f9c7a,Jeremy Jethro,jeremy.jethro@yale.edu,Active,22-Dec-20,None,31-Aug-21,31-Aug-21,User,User,"Infosec Network Access Blocking,confluence-users,infosec-jira,jira-software-users"
+5aa1610f5a4d022884129376,Jeffrey Watson,jeffrey.watson@yale.edu,Active,8-Mar-18,None,2-Aug-19,24-May-22,None,User,"confluence-users,dno"
+557058:36d0c839-cfa0-4169-91cd-83c8928377fc,Harry Shyket,harry.shyket@yale.edu,Active,8-Jun-17,None,1-Jun-23,9-Jun-23,User,User,"SIS Data Governance,Web Technologies,confluence-users,jira-software-users,sass,sass-functional"
+712020:36a3d635-0cbe-4ec7-b521-2bf6af58d373,geofrey.bonenberger,geofrey.bonenberger@yale.edu,Active,4-May-23,None,Never accessed,Never accessed,User,User,"confluence-users,jira-software-users,sass-functional"
+557058:75eebb70-3933-43f6-89c8-b355a1d1ea57,janice.wallace,janice.wallace@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,"confluence-users,darcy-data-warehouse"
+557058:61dd7401-36a6-4c74-bc47-2e0750fb2b2e,Jeffrey Goddu,jeffrey.goddu@yale.edu,Active,8-Jun-17,None,Never accessed,5-Jun-23,None,User,confluence-users
+5df90860039b310ca888499f,Jan Eveleth,jan.eveleth@yale.edu,Active,17-Dec-19,None,Never accessed,28-Jan-20,None,User,confluence-users
+557058:6c7dacad-39af-400c-a13b-f170032031d6,John Coleman,john.coleman@yale.edu,Active,8-Jun-17,None,17-May-23,1-Jun-23,User,User,"confluence-users,infosec,infosec-jira,jira-software-users"
+712020:c31aeb0f-bf89-4e0d-aca2-4e308a9d56af,Jose Duenas,jose.duenas@yale.edu,Active,26-May-23,None,7-Jun-23,Never accessed,User,User,"confluence-users,jira-software-users"
+557058:85efaf41-e5ef-42ca-b7d4-fe0867f7654e,James Tucciarone III,james.tucciaroneiii@yale.edu,Active,8-Jun-17,None,23-May-22,7-Jun-23,User,User,"Web Technologies,confluence-users,infosec,jira-software-users"
+5c4f349185c9b117bae3302c,Jesse Sabbagh,jesse.sabbagh@yale.edu,Active,28-Jan-19,None,28-Feb-23,1-Jun-23,User,User,"confluence-users,jira-software-users,platform-dba,sa-linux"
+557058:a6faa91d-d33d-4680-a2a6-6bb83c97a51b,John Guidone,john.guidone@yale.edu,Active,8-Jun-17,None,15-Feb-22,8-Jun-23,User,User,"confluence-users,infosec,infosec-jira,jira-software-users"
+557058:8f437e05-2325-4002-95be-7dabda396b83,John Zito,john.zito@yale.edu,Active,8-Jun-17,None,Never accessed,13-Jan-18,None,User,confluence-users
+62acc43bbf7afc006f3e169a,Gina Costa,gina.costa@yale.edu,Active,7-Jul-22,None,10-Aug-22,Never accessed,User,None,jira-software-users
+61a8f382c15977006aed604a,Gerardo Alvarez,gerardo.alvarez@yale.edu,Active,2-Dec-21,None,8-Jun-23,9-Aug-22,User,None,"FTS Quality Assurance,jira-software-users"
+60fb03dbe468f10068a9a601,Javaid Siddiqui,javaid.siddiqui@yale.edu,Active,18-Aug-21,None,Never accessed,20-Aug-21,None,User,confluence-users
+637cd2c93c26ca7fa0d24275,Jacob Jones,jacob.jones.jj824@yale.edu,Active,28-Nov-22,None,8-Jun-23,1-Jun-23,User,User,"confluence-users,jira-software-users,sass-consultants"
+5abcead1478bd059b7d296a0,Heather Abbott,heather.abbott@yale.edu,Active,29-Mar-18,None,8-Jun-23,25-Apr-22,User,User,"SIS Data Governance,SIS Working Group,confluence-users,jira-software-users"
+623880b294742a00683c7e0e,Jose Garcia,jose.garcia@yale.edu,Active,21-Mar-22,None,25-Oct-22,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+607050b010a0a9006f18a4e7,George Bohvalov,george.bohvalov@yale.edu,Active,9-Apr-21,None,27-Apr-22,9-Sep-21,User,User,"confluence-users,infosec-jira,jira-software-users"
+5e26683976f1a50e68c88c62,Jeremy Rosenberg,jeremy.rosenberg@yale.edu,Active,21-Jan-20,None,6-Mar-23,1-Jun-23,User,User,"confluence-users,infosec-jira,jira-software-users"
+557058:480357dd-ebe1-43d4-821d-cb61f910408b,Jennie Berberena,jennie.berberena@yale.edu,Active,8-Jun-17,None,8-Jun-23,1-Jun-23,User,User,"confluence-users,jira-software-users,sass,sfas"
+612e6f2cb7859000710573e0,Gregg Rennie,gregg.rennie@yale.edu,Active,31-Aug-21,None,8-Jun-23,5-Jun-23,User,None,"FTS Quality Assurance,jira-software-users"
+557058:723655dd-d728-4e09-9b33-b6c7f06b6546,Jennifer Kirby,jennifer.kirby@yale.edu,Active,8-Jun-17,None,8-Jun-23,7-Jun-23,User,User,"Academic Technologies,confluence-users,jira-software-users,sass"
+557058:485a95b6-2ac1-49f7-abbb-250426d1c27f,Jay Kubeck,jay.kubeck@yale.edu,Active,16-Apr-18,None,Never accessed,18-Apr-18,None,User,"Yale_Cloud,confluence-users"
+5e54079b924db10e74b8a500,jeffrey.brown,jeffrey.brown@yale.edu,Active,24-Feb-20,None,Never accessed,Never accessed,None,User,"confluence-users,dno"
+63c6e97cd7f68827e6b5ae57,Joel Silverman,j.silverman@yale.edu,Active,17-Jan-23,None,17-Jan-23,Never accessed,User,None,jira-software-users
+6279561bb249c0006f952ec3,george.makis,george.makis@yale.edu,Active,9-May-22,None,Never accessed,Never accessed,None,User,"confluence-users,dno"
+61115a5fc51f3a0069454aa1,James Vomero,james.vomero@yale.edu,Active,9-Aug-21,None,8-Jun-23,Never accessed,User,None,"Web Technologies Clients,jira-software-users"
+557058:e9639db8-9feb-40bd-bf34-dbd134199b5b,Gregory Locke,gregory.locke@yale.edu,Active,8-Jun-17,None,31-May-23,9-May-23,User,User,"confluence-users,data-management,jira-software-users"
+712020:e3efa182-010e-42e9-a963-a96b8f821fa1,Jeff Kusi,jeff.kusi@yale.edu,Active,2-May-23,None,8-May-23,Never accessed,User,User,"confluence-users,jira-software-users,sass"
+557058:952aa63e-2928-426d-8376-1a52b94c449c,Frank Mathew,frank.mathew@yale.edu,Active,8-Jun-17,None,3-Jun-20,5-Apr-23,User,User,"SLT,confluence-users,darcy-data-warehouse,jira-software-users,sass"
+5a53d3df4bb7320545cf3be0,Igor Budyansky,igor.budyansky@yale.edu,Active,8-Jan-18,None,Never accessed,24-Apr-18,None,User,"bsg-application-services,confluence-users"
+557058:e105fd9d-3570-4b30-bce5-3bec2cc515af,Joanne Donadio,joanne.donadio@yale.edu,Active,8-Jun-17,None,8-Jun-23,7-Jun-23,User,User,"AYA Development,confluence-users,darcy-data-warehouse,jira-software-users"
+62947e14e54087006965124d,Joana Sardinha,joana.sardinha@outsystems.com,Active,19-Oct-22,None,19-Oct-22,Never accessed,User,None,jira-software-users
+557058:e2c7caf8-a4e0-4b99-89f6-b30c978ee958,Jason Zentz,jason.zentz@yale.edu,Active,3-Jul-17,None,15-Oct-18,13-Oct-17,None,User,confluence-users
+557058:ecd714fd-3079-4c28-95b0-196266bf3cfe,Heather White,heather.white@yale.edu,Active,19-Oct-17,None,19-Jan-23,29-Jan-20,User,User,"Cultural Heritage,Web Technologies,confluence-users,jira-software-users"
+60d60560c90cb20068897483,Jose Avila,jose.avila@yale.edu,Active,25-Jun-21,None,11-Feb-22,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+557058:7badbb40-094b-443b-8596-efaebc6adfec,Francis Garcia,francis.garcia@yale.edu,Active,8-Jun-17,None,Never accessed,8-May-23,None,User,"confluence-users,data-management"
+557058:f0d0e008-774e-4c05-a533-5735f7e40066,janet.jeddry@yale.edu,janet.jeddry@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+60ad1911ad76ea0070d404dd,Ilia Suvorov,ilia.suvorov@yale.edu,Active,25-May-21,None,4-Jul-22,Never accessed,User,None,"infosec-jira,jira-software-users"
+557058:f075bd06-676c-492b-a29c-7e52c29615d6,john.barden@yale.edu,john.barden@yale.edu,Active,1-Sep-17,None,Never accessed,Never accessed,None,User,confluence-users
+6143a967481377006bd132d8,Jonathan Cortes,jonathan.cortes@yale.edu,Active,16-Sep-21,None,22-Apr-22,Never accessed,User,None,"FTS Quality Assurance,jira-software-users"
+5d3f0e60a852f60da56d6c41,Jack Voss,jack.voss@yale.edu,Active,29-Jul-19,None,6-Jun-23,9-Jun-23,User,User,"confluence-users,darcy-data-warehouse,jira-software-users"
+5afb219439d04955d9e23527,Jack Rebimbas,jack.rebimbas@yale.edu,Active,20-Jun-19,None,29-Jul-19,25-Sep-19,None,User,confluence-users
+5a8b437c79bfa8335fcacbf9,Jon Serena,jon.serena@yale.edu,Active,19-Feb-18,None,Never accessed,7-Jun-23,None,User,"confluence-users,taldev_admins"
+712020:5825d618-39a3-4b1b-9465-cf1e20445247,Gitlab Jira,gitlab.jira@yale.edu,Active,12-May-23,None,Never accessed,Never accessed,User,None,jira-software-users
+557058:313c5c44-c5de-46fd-b318-12026d740528,Jason Shuff,jason.shuff@yale.edu,Active,8-Jun-17,None,2-Feb-23,2-Jun-23,User,User,"ITS Enterprise Applications - Cross Applications Platforms,confluence-users,jira-software-users"
+63bf04e02341bff4fff6a850,Jason Schmock,jason.schmock@yale.edu,Active,11-Jan-23,None,Never accessed,19-May-23,None,User,confluence-users
+557058:155cb2ca-2665-44ab-b95b-6d670744b2ac,Jeffrey Campbell,jeffrey.campbell@yale.edu,Active,8-Jun-17,None,8-Apr-22,10-May-23,User,User,"Cultural Heritage,confluence-users,jira-software-users"
+5e53e38abbb5110c9a681e07,Igor Novak,igor.novak@yale.edu,Active,24-Feb-20,None,24-Feb-20,8-Jun-21,None,User,"HR Innovation & Strategic Support,confluence-users"
+557058:17143187-4e6a-4017-80ab-69512d35f299,Jeff Tillbrook,jeff.tillbrook@yale.edu,Active,8-Jun-17,None,Never accessed,Never accessed,None,User,confluence-users
+638fa2365fce844d606cea50,Jason Holbrook,jason.holbrook@yale.edu,Active,6-Dec-22,None,Never accessed,31-May-23,None,User,"confluence-users,infosec"
+557058:d5243cb2-86f4-4a75-9e02-8d30864d2ef1,Jon Ingersoll,jon.ingersoll@yale.edu,Active,26-Jul-17,None,Never accessed,Never accessed,None,User,confluence-users
+62baf4c3c9f2df7b608aafc3,Gurinder Singh,gurinder.singh@yale.edu,Active,29-Jun-22,None,8-May-23,Never accessed,User,None,jira-software-users
+557058:7cc74541-e43b-45da-bdce-dcc3e14d93bd,Howard Gilbert,howard.gilbert@yale.edu,Active,8-Jun-17,None,Never accessed,7-Jun-23,None,User,"confluence-users,iam"
